@@ -1,0 +1,344 @@
+id_venta,id_cliente,id_producto,fecha,año,mes,día,mes_nombre,día_semana,trimestre,semana_año,ciudad,fecha_alta,días_desde_alta,cliente_antiguo,nombre_producto,categoria,cantidad,precio_unitario_catalogo,precio_unitario,margen_precio,porcentaje_margen,importe,tipo_venta,medio_pago
+1,62,90,2024-06-19,2024,6,19,June,Wednesday,2,25,Carlos Paz,2023-03-03,978,True,Toallas Húmedas x50,Limpieza,1,2804,2902,98,3.5,2902,Pequeña,tarjeta
+2,49,82,2024-03-17,2024,3,17,March,Sunday,1,11,Rio Cuarto,2023-02-18,991,True,Aceitunas Negras 200g,Limpieza,5,2542,2394,-148,-5.8,11970,Mediana,qr
+2,49,39,2024-03-17,2024,3,17,March,Sunday,1,11,Rio Cuarto,2023-02-18,991,True,Helado Vainilla 1L,Alimentos,5,539,469,-70,-13.0,2345,Pequeña,qr
+2,49,70,2024-03-17,2024,3,17,March,Sunday,1,11,Rio Cuarto,2023-02-18,991,True,Fernet 750ml,Limpieza,2,3967,4061,94,2.4,8122,Mediana,qr
+2,49,22,2024-03-17,2024,3,17,March,Sunday,1,11,Rio Cuarto,2023-02-18,991,True,Medialunas de Manteca,Limpieza,1,1940,2069,129,6.6,2069,Pequeña,qr
+2,49,79,2024-03-17,2024,3,17,March,Sunday,1,11,Rio Cuarto,2023-02-18,991,True,Hamburguesas Congeladas x4,Alimentos,4,2408,2420,12,0.5,9680,Mediana,qr
+3,20,9,2024-01-13,2024,1,13,January,Saturday,1,2,Rio Cuarto,2023-01-20,1020,True,Yerba Mate Suave 1kg,Alimentos,2,3698,3878,180,4.9,7756,Mediana,tarjeta
+3,20,2,2024-01-13,2024,1,13,January,Saturday,1,2,Rio Cuarto,2023-01-20,1020,True,Pepsi 1.5L,Limpieza,2,4875,4973,98,2.0,9946,Mediana,tarjeta
+3,20,85,2024-01-13,2024,1,13,January,Saturday,1,2,Rio Cuarto,2023-01-20,1020,True,Jugo en Polvo Naranja,Alimentos,1,1777,1856,79,4.4,1856,Pequeña,tarjeta
+4,36,4,2024-02-27,2024,2,27,February,Tuesday,1,9,Mendiolaza,2023-02-05,1004,True,Fanta Naranja 1.5L,Limpieza,2,2047,2033,-14,-0.7,4066,Pequeña,transferencia
+4,36,23,2024-02-27,2024,2,27,February,Tuesday,1,9,Mendiolaza,2023-02-05,1004,True,Bizcochos Salados,Alimentos,5,2510,2380,-130,-5.2,11900,Mediana,transferencia
+5,56,86,2024-06-11,2024,6,11,June,Tuesday,2,24,Rio Cuarto,2023-02-25,984,True,Jugo en Polvo Limón,Limpieza,4,3977,4090,113,2.8,16360,Grande,tarjeta
+6,91,25,2024-05-05,2024,5,5,May,Sunday,2,18,Mendiolaza,2023-04-01,949,True,Galletitas Vainilla,Alimentos,2,4187,4015,-172,-4.1,8030,Mediana,transferencia
+6,91,31,2024-05-05,2024,5,5,May,Sunday,2,18,Mendiolaza,2023-04-01,949,True,Mix de Frutos Secos 200g,Alimentos,3,3308,3409,101,3.1,10227,Mediana,transferencia
+6,91,83,2024-05-05,2024,5,5,May,Sunday,2,18,Mendiolaza,2023-04-01,949,True,Queso Untable 190g,Alimentos,1,1989,1830,-159,-8.0,1830,Pequeña,transferencia
+6,91,59,2024-05-05,2024,5,5,May,Sunday,2,18,Mendiolaza,2023-04-01,949,True,Chicle Menta,Alimentos,4,3563,3612,49,1.4,14448,Mediana,transferencia
+7,92,63,2024-05-06,2024,5,6,May,Monday,2,19,Alta Gracia,2023-04-02,948,True,Granola 250g,Alimentos,3,4267,4337,70,1.6,13011,Mediana,efectivo
+8,66,53,2024-01-06,2024,1,6,January,Saturday,1,1,Villa Maria,2023-03-07,974,True,Lavandina 1L,Alimentos,5,1613,1664,51,3.2,8320,Mediana,transferencia
+8,66,18,2024-01-06,2024,1,6,January,Saturday,1,1,Villa Maria,2023-03-07,974,True,Queso Rallado 150g,Limpieza,4,3552,3444,-108,-3.0,13776,Mediana,transferencia
+8,66,68,2024-01-06,2024,1,6,January,Saturday,1,1,Villa Maria,2023-03-07,974,True,Vino Blanco 750ml,Limpieza,5,2741,2684,-57,-2.1,13420,Mediana,transferencia
+9,86,65,2024-01-20,2024,1,20,January,Saturday,1,3,Cordoba,2023-03-27,954,True,Cerveza Rubia 1L,Alimentos,4,2566,2423,-143,-5.6,9692,Mediana,efectivo
+10,52,36,2024-05-28,2024,5,28,May,Tuesday,2,22,Rio Cuarto,2023-02-21,988,True,Dulce de Leche 400g,Limpieza,2,2652,2559,-93,-3.5,5118,Mediana,qr
+10,52,100,2024-05-28,2024,5,28,May,Tuesday,2,22,Rio Cuarto,2023-02-21,988,True,Trapo de Piso,Limpieza,4,5039,4854,-185,-3.7,19416,Grande,qr
+10,52,37,2024-05-28,2024,5,28,May,Tuesday,2,22,Rio Cuarto,2023-02-21,988,True,Mermelada de Durazno 400g,Alimentos,3,3187,3196,9,0.3,9588,Mediana,qr
+10,52,62,2024-05-28,2024,5,28,May,Tuesday,2,22,Rio Cuarto,2023-02-21,988,True,Stevia 100 sobres,Limpieza,1,3924,3848,-76,-1.9,3848,Pequeña,qr
+11,20,13,2024-04-10,2024,4,10,April,Wednesday,2,15,Rio Cuarto,2023-01-20,1020,True,Té Verde 20 saquitos,Alimentos,1,2343,2383,40,1.7,2383,Pequeña,qr
+11,20,65,2024-04-10,2024,4,10,April,Wednesday,2,15,Rio Cuarto,2023-01-20,1020,True,Cerveza Rubia 1L,Alimentos,2,2536,2423,-113,-4.5,4846,Pequeña,qr
+11,20,28,2024-04-10,2024,4,10,April,Wednesday,2,15,Rio Cuarto,2023-01-20,1020,True,Papas Fritas Clásicas 100g,Limpieza,1,757,936,179,23.6,936,Pequeña,qr
+12,96,72,2024-06-28,2024,6,28,June,Friday,2,26,Cordoba,2023-04-06,944,True,Ron 700ml,Limpieza,2,3928,3876,-52,-1.3,7752,Mediana,efectivo
+12,96,50,2024-06-28,2024,6,28,June,Friday,2,26,Cordoba,2023-04-06,944,True,Azúcar 1kg,Limpieza,2,762,727,-35,-4.6,1454,Pequeña,efectivo
+12,96,56,2024-06-28,2024,6,28,June,Friday,2,26,Cordoba,2023-04-06,944,True,Papel Higiénico x4,Limpieza,3,2676,2532,-144,-5.4,7596,Mediana,efectivo
+12,96,87,2024-06-28,2024,6,28,June,Friday,2,26,Cordoba,2023-04-06,944,True,Sopa Instantánea Pollo,Alimentos,3,1527,1679,152,10.0,5037,Mediana,efectivo
+12,96,38,2024-06-28,2024,6,28,June,Friday,2,26,Cordoba,2023-04-06,944,True,Mermelada de Frutilla 400g,Limpieza,4,1442,1584,142,9.8,6336,Mediana,efectivo
+13,6,87,2024-01-24,2024,1,24,January,Wednesday,1,4,Villa Maria,2023-01-06,1034,True,Sopa Instantánea Pollo,Alimentos,1,1648,1679,31,1.9,1679,Pequeña,tarjeta
+13,6,81,2024-01-24,2024,1,24,January,Wednesday,1,4,Villa Maria,2023-01-06,1034,True,Aceitunas Verdes 200g,Alimentos,3,2507,2520,13,0.5,7560,Mediana,tarjeta
+13,6,13,2024-01-24,2024,1,24,January,Wednesday,1,4,Villa Maria,2023-01-06,1034,True,Té Verde 20 saquitos,Alimentos,1,2453,2383,-70,-2.9,2383,Pequeña,tarjeta
+14,67,36,2024-04-18,2024,4,18,April,Thursday,2,16,Alta Gracia,2023-03-08,973,True,Dulce de Leche 400g,Limpieza,4,2548,2559,11,0.4,10236,Mediana,qr
+14,67,72,2024-04-18,2024,4,18,April,Thursday,2,16,Alta Gracia,2023-03-08,973,True,Ron 700ml,Limpieza,5,3850,3876,26,0.7,19380,Grande,qr
+14,67,38,2024-04-18,2024,4,18,April,Thursday,2,16,Alta Gracia,2023-03-08,973,True,Mermelada de Frutilla 400g,Limpieza,3,1434,1584,150,10.5,4752,Pequeña,qr
+14,67,97,2024-04-18,2024,4,18,April,Thursday,2,16,Alta Gracia,2023-03-08,973,True,Limpiavidrios 500ml,Alimentos,1,1035,872,-163,-15.7,872,Pequeña,qr
+15,56,37,2024-06-27,2024,6,27,June,Thursday,2,26,Rio Cuarto,2023-02-25,984,True,Mermelada de Durazno 400g,Alimentos,3,3050,3196,146,4.8,9588,Mediana,transferencia
+16,2,35,2024-04-12,2024,4,12,April,Friday,2,15,Carlos Paz,2023-01-02,1038,True,Barrita de Cereal 30g,Alimentos,5,4473,4430,-43,-1.0,22150,Grande,efectivo
+17,88,81,2024-02-17,2024,2,17,February,Saturday,1,7,Villa Maria,2023-03-29,952,True,Aceitunas Verdes 200g,Alimentos,5,2639,2520,-119,-4.5,12600,Mediana,efectivo
+17,88,46,2024-02-17,2024,2,17,February,Saturday,1,7,Villa Maria,2023-03-29,952,True,Lentejas Secas 500g,Limpieza,5,2966,3036,70,2.4,15180,Grande,efectivo
+17,88,74,2024-02-17,2024,2,17,February,Saturday,1,7,Villa Maria,2023-03-29,952,True,Whisky 750ml,Limpieza,3,3059,2953,-106,-3.5,8859,Mediana,efectivo
+18,81,33,2024-06-11,2024,6,11,June,Tuesday,2,24,Carlos Paz,2023-03-22,959,True,Chocolate con Leche 100g,Alimentos,2,1189,1255,66,5.6,2510,Pequeña,qr
+18,81,4,2024-06-11,2024,6,11,June,Tuesday,2,24,Carlos Paz,2023-03-22,959,True,Fanta Naranja 1.5L,Limpieza,5,1853,2033,180,9.7,10165,Mediana,qr
+18,81,24,2024-06-11,2024,6,11,June,Tuesday,2,24,Carlos Paz,2023-03-22,959,True,Galletitas Chocolate,Limpieza,2,1433,1305,-128,-8.9,2610,Pequeña,qr
+18,81,15,2024-06-11,2024,6,11,June,Tuesday,2,24,Carlos Paz,2023-03-22,959,True,Leche Descremada 1L,Alimentos,3,2504,2538,34,1.4,7614,Mediana,qr
+18,81,22,2024-06-11,2024,6,11,June,Tuesday,2,24,Carlos Paz,2023-03-22,959,True,Medialunas de Manteca,Limpieza,5,2142,2069,-73,-3.4,10345,Mediana,qr
+19,80,38,2024-06-11,2024,6,11,June,Tuesday,2,24,Mendiolaza,2023-03-21,960,True,Mermelada de Frutilla 400g,Limpieza,2,1771,1584,-187,-10.6,3168,Pequeña,efectivo
+19,80,98,2024-06-11,2024,6,11,June,Tuesday,2,24,Mendiolaza,2023-03-21,960,True,Desengrasante 500ml,Limpieza,3,2731,2843,112,4.1,8529,Mediana,efectivo
+19,80,63,2024-06-11,2024,6,11,June,Tuesday,2,24,Mendiolaza,2023-03-21,960,True,Granola 250g,Alimentos,3,4452,4337,-115,-2.6,13011,Mediana,efectivo
+20,75,32,2024-01-13,2024,1,13,January,Saturday,1,2,Rio Cuarto,2023-03-16,965,True,Chocolate Amargo 100g,Limpieza,3,2047,2234,187,9.1,6702,Mediana,tarjeta
+21,10,76,2024-06-19,2024,6,19,June,Wednesday,2,25,Cordoba,2023-01-10,1030,True,Pizza Congelada Muzzarella,Limpieza,5,4327,4286,-41,-0.9,21430,Grande,transferencia
+21,10,35,2024-06-19,2024,6,19,June,Wednesday,2,25,Cordoba,2023-01-10,1030,True,Barrita de Cereal 30g,Alimentos,1,4494,4430,-64,-1.4,4430,Pequeña,transferencia
+22,64,9,2024-05-08,2024,5,8,May,Wednesday,2,19,Villa Maria,2023-03-05,976,True,Yerba Mate Suave 1kg,Alimentos,2,4023,3878,-145,-3.6,7756,Mediana,transferencia
+22,64,28,2024-05-08,2024,5,8,May,Wednesday,2,19,Villa Maria,2023-03-05,976,True,Papas Fritas Clásicas 100g,Limpieza,3,788,936,148,18.8,2808,Pequeña,transferencia
+22,64,24,2024-05-08,2024,5,8,May,Wednesday,2,19,Villa Maria,2023-03-05,976,True,Galletitas Chocolate,Limpieza,4,1490,1305,-185,-12.4,5220,Mediana,transferencia
+23,78,64,2024-05-16,2024,5,16,May,Thursday,2,20,Villa Maria,2023-03-19,962,True,Avena Instantánea 250g,Limpieza,4,4092,3953,-139,-3.4,15812,Grande,transferencia
+23,78,83,2024-05-16,2024,5,16,May,Thursday,2,20,Villa Maria,2023-03-19,962,True,Queso Untable 190g,Alimentos,4,1721,1830,109,6.3,7320,Mediana,transferencia
+24,55,91,2024-06-14,2024,6,14,June,Friday,2,24,Mendiolaza,2023-02-24,985,True,Desodorante Aerosol,Alimentos,2,4856,4690,-166,-3.4,9380,Mediana,tarjeta
+24,55,40,2024-06-14,2024,6,14,June,Friday,2,24,Mendiolaza,2023-02-24,985,True,Helado Chocolate 1L,Limpieza,5,1278,1215,-63,-4.9,6075,Mediana,tarjeta
+25,13,55,2024-04-30,2024,4,30,April,Tuesday,2,18,Carlos Paz,2023-01-13,1027,True,Shampoo 400ml,Alimentos,1,1241,1407,166,13.4,1407,Pequeña,transferencia
+25,13,95,2024-04-30,2024,4,30,April,Tuesday,2,18,Carlos Paz,2023-01-13,1027,True,Mascarilla Capilar,Alimentos,5,1586,1581,-5,-0.3,7905,Mediana,transferencia
+25,13,72,2024-04-30,2024,4,30,April,Tuesday,2,18,Carlos Paz,2023-01-13,1027,True,Ron 700ml,Limpieza,1,3756,3876,120,3.2,3876,Pequeña,transferencia
+26,49,79,2024-01-23,2024,1,23,January,Tuesday,1,4,Rio Cuarto,2023-02-18,991,True,Hamburguesas Congeladas x4,Alimentos,2,2269,2420,151,6.7,4840,Pequeña,efectivo
+26,49,86,2024-01-23,2024,1,23,January,Tuesday,1,4,Rio Cuarto,2023-02-18,991,True,Jugo en Polvo Limón,Limpieza,1,4249,4090,-159,-3.7,4090,Pequeña,efectivo
+27,9,7,2024-02-25,2024,2,25,February,Sunday,1,8,Carlos Paz,2023-01-09,1031,True,Jugo de Manzana 1L,Alimentos,4,3456,3269,-187,-5.4,13076,Mediana,transferencia
+27,9,78,2024-02-25,2024,2,25,February,Sunday,1,8,Carlos Paz,2023-01-09,1031,True,Verduras Congeladas Mix,Limpieza,4,4090,4289,199,4.9,17156,Grande,transferencia
+28,52,74,2024-05-20,2024,5,20,May,Monday,2,21,Rio Cuarto,2023-02-21,988,True,Whisky 750ml,Limpieza,1,3142,2953,-189,-6.0,2953,Pequeña,qr
+28,52,91,2024-05-20,2024,5,20,May,Monday,2,21,Rio Cuarto,2023-02-21,988,True,Desodorante Aerosol,Alimentos,2,4543,4690,147,3.2,9380,Mediana,qr
+28,52,72,2024-05-20,2024,5,20,May,Monday,2,21,Rio Cuarto,2023-02-21,988,True,Ron 700ml,Limpieza,1,3781,3876,95,2.5,3876,Pequeña,qr
+28,52,18,2024-05-20,2024,5,20,May,Monday,2,21,Rio Cuarto,2023-02-21,988,True,Queso Rallado 150g,Limpieza,2,3503,3444,-59,-1.7,6888,Mediana,qr
+28,52,27,2024-05-20,2024,5,20,May,Monday,2,21,Rio Cuarto,2023-02-21,988,True,Alfajor Simple,Alimentos,5,2611,2502,-109,-4.2,12510,Mediana,qr
+29,49,58,2024-02-20,2024,2,20,February,Tuesday,1,8,Rio Cuarto,2023-02-18,991,True,Caramelos Masticables,Limpieza,1,4742,4752,10,0.2,4752,Pequeña,qr
+29,49,36,2024-02-20,2024,2,20,February,Tuesday,1,8,Rio Cuarto,2023-02-18,991,True,Dulce de Leche 400g,Limpieza,2,2576,2559,-17,-0.7,5118,Mediana,qr
+29,49,71,2024-02-20,2024,2,20,February,Tuesday,1,8,Rio Cuarto,2023-02-18,991,True,Vodka 700ml,Alimentos,4,351,508,157,44.7,2032,Pequeña,qr
+29,49,27,2024-02-20,2024,2,20,February,Tuesday,1,8,Rio Cuarto,2023-02-18,991,True,Alfajor Simple,Alimentos,2,2463,2502,39,1.6,5004,Mediana,qr
+29,49,66,2024-02-20,2024,2,20,February,Tuesday,1,8,Rio Cuarto,2023-02-18,991,True,Cerveza Negra 1L,Limpieza,1,1534,1533,-1,-0.1,1533,Pequeña,qr
+30,93,49,2024-03-03,2024,3,3,March,Sunday,1,9,Alta Gracia,2023-04-03,947,True,Harina de Trigo 1kg,Alimentos,4,2581,2512,-69,-2.7,10048,Mediana,efectivo
+30,93,78,2024-03-03,2024,3,3,March,Sunday,1,9,Alta Gracia,2023-04-03,947,True,Verduras Congeladas Mix,Limpieza,3,4439,4289,-150,-3.4,12867,Mediana,efectivo
+30,93,82,2024-03-03,2024,3,3,March,Sunday,1,9,Alta Gracia,2023-04-03,947,True,Aceitunas Negras 200g,Limpieza,4,2497,2394,-103,-4.1,9576,Mediana,efectivo
+30,93,7,2024-03-03,2024,3,3,March,Sunday,1,9,Alta Gracia,2023-04-03,947,True,Jugo de Manzana 1L,Alimentos,1,3339,3269,-70,-2.1,3269,Pequeña,efectivo
+31,19,92,2024-05-22,2024,5,22,May,Wednesday,2,21,Mendiolaza,2023-01-19,1021,True,Crema Dental 90g,Limpieza,4,2526,2512,-14,-0.6,10048,Mediana,tarjeta
+31,19,90,2024-05-22,2024,5,22,May,Wednesday,2,21,Mendiolaza,2023-01-19,1021,True,Toallas Húmedas x50,Limpieza,3,2953,2902,-51,-1.7,8706,Mediana,tarjeta
+31,19,84,2024-05-22,2024,5,22,May,Wednesday,2,21,Mendiolaza,2023-01-19,1021,True,Queso Azul 150g,Limpieza,5,1634,1645,11,0.7,8225,Mediana,tarjeta
+32,31,72,2024-01-30,2024,1,30,January,Tuesday,1,5,Villa Maria,2023-01-31,1009,True,Ron 700ml,Limpieza,5,3971,3876,-95,-2.4,19380,Grande,efectivo
+32,31,53,2024-01-30,2024,1,30,January,Tuesday,1,5,Villa Maria,2023-01-31,1009,True,Lavandina 1L,Alimentos,4,1676,1664,-12,-0.7,6656,Mediana,efectivo
+32,31,17,2024-01-30,2024,1,30,January,Tuesday,1,5,Villa Maria,2023-01-31,1009,True,Queso Cremoso 500g,Alimentos,3,4841,4834,-7,-0.1,14502,Mediana,efectivo
+32,31,35,2024-01-30,2024,1,30,January,Tuesday,1,5,Villa Maria,2023-01-31,1009,True,Barrita de Cereal 30g,Alimentos,3,4466,4430,-36,-0.8,13290,Mediana,efectivo
+33,6,47,2024-02-13,2024,2,13,February,Tuesday,1,7,Villa Maria,2023-01-06,1034,True,Garbanzos 500g,Alimentos,2,3076,2939,-137,-4.5,5878,Mediana,efectivo
+33,6,76,2024-02-13,2024,2,13,February,Tuesday,1,7,Villa Maria,2023-01-06,1034,True,Pizza Congelada Muzzarella,Limpieza,4,4452,4286,-166,-3.7,17144,Grande,efectivo
+33,6,100,2024-02-13,2024,2,13,February,Tuesday,1,7,Villa Maria,2023-01-06,1034,True,Trapo de Piso,Limpieza,1,4706,4854,148,3.1,4854,Pequeña,efectivo
+33,6,91,2024-02-13,2024,2,13,February,Tuesday,1,7,Villa Maria,2023-01-06,1034,True,Desodorante Aerosol,Alimentos,2,4769,4690,-79,-1.7,9380,Mediana,efectivo
+34,58,10,2024-01-13,2024,1,13,January,Saturday,1,2,Rio Cuarto,2023-02-27,982,True,Yerba Mate Intensa 1kg,Limpieza,1,4899,4883,-16,-0.3,4883,Pequeña,transferencia
+34,58,32,2024-01-13,2024,1,13,January,Saturday,1,2,Rio Cuarto,2023-02-27,982,True,Chocolate Amargo 100g,Limpieza,5,2285,2234,-51,-2.2,11170,Mediana,transferencia
+35,61,93,2024-05-30,2024,5,30,May,Thursday,2,22,Rio Cuarto,2023-03-02,979,True,Cepillo de Dientes,Alimentos,3,2129,2142,13,0.6,6426,Mediana,efectivo
+35,61,80,2024-05-30,2024,5,30,May,Thursday,2,22,Rio Cuarto,2023-03-02,979,True,Helado de Frutilla 1L,Limpieza,2,2160,1981,-179,-8.3,3962,Pequeña,efectivo
+35,61,88,2024-05-30,2024,5,30,May,Thursday,2,22,Rio Cuarto,2023-03-02,979,True,Caldo Concentrado Carne,Limpieza,5,2410,2570,160,6.6,12850,Mediana,efectivo
+36,5,50,2024-06-25,2024,6,25,June,Tuesday,2,26,Cordoba,2023-01-05,1035,True,Azúcar 1kg,Limpieza,4,683,727,44,6.4,2908,Pequeña,tarjeta
+36,5,48,2024-06-25,2024,6,25,June,Tuesday,2,26,Cordoba,2023-01-05,1035,True,Porotos Negros 500g,Limpieza,2,4276,4462,186,4.3,8924,Mediana,tarjeta
+37,57,18,2024-05-17,2024,5,17,May,Friday,2,20,Rio Cuarto,2023-02-26,983,True,Queso Rallado 150g,Limpieza,3,3544,3444,-100,-2.8,10332,Mediana,qr
+38,56,62,2024-05-29,2024,5,29,May,Wednesday,2,22,Rio Cuarto,2023-02-25,984,True,Stevia 100 sobres,Limpieza,5,3712,3848,136,3.7,19240,Grande,tarjeta
+38,56,14,2024-05-29,2024,5,29,May,Wednesday,2,22,Rio Cuarto,2023-02-25,984,True,Leche Entera 1L,Limpieza,3,1867,1723,-144,-7.7,5169,Mediana,tarjeta
+38,56,65,2024-05-29,2024,5,29,May,Wednesday,2,22,Rio Cuarto,2023-02-25,984,True,Cerveza Rubia 1L,Alimentos,5,2549,2423,-126,-4.9,12115,Mediana,tarjeta
+38,56,5,2024-05-29,2024,5,29,May,Wednesday,2,22,Rio Cuarto,2023-02-25,984,True,Agua Mineral 500ml,Alimentos,3,4585,4777,192,4.2,14331,Mediana,tarjeta
+39,5,44,2024-03-05,2024,3,5,March,Tuesday,1,10,Cordoba,2023-01-05,1035,True,Arroz Largo Fino 1kg,Limpieza,4,3122,2979,-143,-4.6,11916,Mediana,efectivo
+39,5,22,2024-03-05,2024,3,5,March,Tuesday,1,10,Cordoba,2023-01-05,1035,True,Medialunas de Manteca,Limpieza,2,1997,2069,72,3.6,4138,Pequeña,efectivo
+39,5,58,2024-03-05,2024,3,5,March,Tuesday,1,10,Cordoba,2023-01-05,1035,True,Caramelos Masticables,Limpieza,4,4687,4752,65,1.4,19008,Grande,efectivo
+39,5,81,2024-03-05,2024,3,5,March,Tuesday,1,10,Cordoba,2023-01-05,1035,True,Aceitunas Verdes 200g,Alimentos,4,2382,2520,138,5.8,10080,Mediana,efectivo
+40,15,44,2024-05-13,2024,5,13,May,Monday,2,20,Cordoba,2023-01-15,1025,True,Arroz Largo Fino 1kg,Limpieza,2,2917,2979,62,2.1,5958,Mediana,efectivo
+41,29,51,2024-03-08,2024,3,8,March,Friday,1,10,Alta Gracia,2023-01-29,1011,True,Sal Fina 500g,Alimentos,1,1625,1745,120,7.4,1745,Pequeña,tarjeta
+41,29,15,2024-03-08,2024,3,8,March,Friday,1,10,Alta Gracia,2023-01-29,1011,True,Leche Descremada 1L,Alimentos,1,2729,2538,-191,-7.0,2538,Pequeña,tarjeta
+42,12,47,2024-04-18,2024,4,18,April,Thursday,2,16,Alta Gracia,2023-01-12,1028,True,Garbanzos 500g,Alimentos,3,2901,2939,38,1.3,8817,Mediana,tarjeta
+42,12,29,2024-04-18,2024,4,18,April,Thursday,2,16,Alta Gracia,2023-01-12,1028,True,Papas Fritas Onduladas 100g,Alimentos,1,1956,1868,-88,-4.5,1868,Pequeña,tarjeta
+42,12,73,2024-04-18,2024,4,18,April,Thursday,2,16,Alta Gracia,2023-01-12,1028,True,Gin 700ml,Alimentos,3,1739,1561,-178,-10.2,4683,Pequeña,tarjeta
+43,23,1,2024-02-18,2024,2,18,February,Sunday,1,7,Rio Cuarto,2023-01-23,1017,True,Coca Cola 1.5L,Alimentos,5,2407,2347,-60,-2.5,11735,Mediana,efectivo
+43,23,49,2024-02-18,2024,2,18,February,Sunday,1,7,Rio Cuarto,2023-01-23,1017,True,Harina de Trigo 1kg,Alimentos,2,2542,2512,-30,-1.2,5024,Mediana,efectivo
+43,23,66,2024-02-18,2024,2,18,February,Sunday,1,7,Rio Cuarto,2023-01-23,1017,True,Cerveza Negra 1L,Limpieza,2,1373,1533,160,11.7,3066,Pequeña,efectivo
+44,21,48,2024-02-21,2024,2,21,February,Wednesday,1,8,Alta Gracia,2023-01-21,1019,True,Porotos Negros 500g,Limpieza,1,4289,4462,173,4.0,4462,Pequeña,efectivo
+44,21,47,2024-02-21,2024,2,21,February,Wednesday,1,8,Alta Gracia,2023-01-21,1019,True,Garbanzos 500g,Alimentos,2,2873,2939,66,2.3,5878,Mediana,efectivo
+44,21,100,2024-02-21,2024,2,21,February,Wednesday,1,8,Alta Gracia,2023-01-21,1019,True,Trapo de Piso,Limpieza,2,4854,4854,0,0.0,9708,Mediana,efectivo
+45,15,12,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-15,1025,True,Té Negro 20 saquitos,Limpieza,2,697,570,-127,-18.2,1140,Pequeña,efectivo
+45,15,18,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-15,1025,True,Queso Rallado 150g,Limpieza,2,3511,3444,-67,-1.9,6888,Mediana,efectivo
+45,15,87,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-15,1025,True,Sopa Instantánea Pollo,Alimentos,4,1511,1679,168,11.1,6716,Mediana,efectivo
+45,15,98,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-15,1025,True,Desengrasante 500ml,Limpieza,1,2690,2843,153,5.7,2843,Pequeña,efectivo
+45,15,52,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-15,1025,True,Detergente Líquido 750ml,Limpieza,2,2443,2582,139,5.7,5164,Mediana,efectivo
+46,46,21,2024-03-25,2024,3,25,March,Monday,1,13,Alta Gracia,2023-02-15,994,True,Pan Lactal Integral,Alimentos,1,287,272,-15,-5.2,272,Pequeña,tarjeta
+47,52,43,2024-05-04,2024,5,4,May,Saturday,2,18,Rio Cuarto,2023-02-21,988,True,Salsa de Tomate 500g,Alimentos,5,979,887,-92,-9.4,4435,Pequeña,transferencia
+47,52,6,2024-05-04,2024,5,4,May,Saturday,2,18,Rio Cuarto,2023-02-21,988,True,Jugo de Naranja 1L,Limpieza,3,4068,4170,102,2.5,12510,Mediana,transferencia
+48,84,70,2024-01-26,2024,1,26,January,Friday,1,4,Cordoba,2023-03-25,956,True,Fernet 750ml,Limpieza,1,4032,4061,29,0.7,4061,Pequeña,qr
+48,84,54,2024-01-26,2024,1,26,January,Friday,1,4,Cordoba,2023-03-25,956,True,Jabón de Tocador,Limpieza,5,1751,1592,-159,-9.1,7960,Mediana,qr
+48,84,57,2024-01-26,2024,1,26,January,Friday,1,4,Cordoba,2023-03-25,956,True,Servilletas x100,Alimentos,4,4533,4520,-13,-0.3,18080,Grande,qr
+49,5,59,2024-06-02,2024,6,2,June,Sunday,2,22,Cordoba,2023-01-05,1035,True,Chicle Menta,Alimentos,2,3446,3612,166,4.8,7224,Mediana,efectivo
+49,5,21,2024-06-02,2024,6,2,June,Sunday,2,22,Cordoba,2023-01-05,1035,True,Pan Lactal Integral,Alimentos,4,298,272,-26,-8.7,1088,Pequeña,efectivo
+49,5,59,2024-06-02,2024,6,2,June,Sunday,2,22,Cordoba,2023-01-05,1035,True,Chicle Menta,Alimentos,4,3512,3612,100,2.8,14448,Mediana,efectivo
+49,5,18,2024-06-02,2024,6,2,June,Sunday,2,22,Cordoba,2023-01-05,1035,True,Queso Rallado 150g,Limpieza,3,3374,3444,70,2.1,10332,Mediana,efectivo
+49,5,85,2024-06-02,2024,6,2,June,Sunday,2,22,Cordoba,2023-01-05,1035,True,Jugo en Polvo Naranja,Alimentos,3,1912,1856,-56,-2.9,5568,Mediana,efectivo
+50,8,10,2024-01-09,2024,1,9,January,Tuesday,1,2,Carlos Paz,2023-01-08,1032,True,Yerba Mate Intensa 1kg,Limpieza,2,4687,4883,196,4.2,9766,Mediana,transferencia
+50,8,34,2024-01-09,2024,1,9,January,Tuesday,1,2,Carlos Paz,2023-01-08,1032,True,Turrón 50g,Limpieza,5,520,503,-17,-3.3,2515,Pequeña,transferencia
+50,8,58,2024-01-09,2024,1,9,January,Tuesday,1,2,Carlos Paz,2023-01-08,1032,True,Caramelos Masticables,Limpieza,5,4806,4752,-54,-1.1,23760,Grande,transferencia
+50,8,32,2024-01-09,2024,1,9,January,Tuesday,1,2,Carlos Paz,2023-01-08,1032,True,Chocolate Amargo 100g,Limpieza,3,2431,2234,-197,-8.1,6702,Mediana,transferencia
+50,8,91,2024-01-09,2024,1,9,January,Tuesday,1,2,Carlos Paz,2023-01-08,1032,True,Desodorante Aerosol,Alimentos,4,4848,4690,-158,-3.3,18760,Grande,transferencia
+51,39,31,2024-02-18,2024,2,18,February,Sunday,1,7,Alta Gracia,2023-02-08,1001,True,Mix de Frutos Secos 200g,Alimentos,1,3491,3409,-82,-2.3,3409,Pequeña,efectivo
+52,5,83,2024-05-10,2024,5,10,May,Friday,2,19,Cordoba,2023-01-05,1035,True,Queso Untable 190g,Alimentos,2,2022,1830,-192,-9.5,3660,Pequeña,tarjeta
+52,5,9,2024-05-10,2024,5,10,May,Friday,2,19,Cordoba,2023-01-05,1035,True,Yerba Mate Suave 1kg,Alimentos,4,3884,3878,-6,-0.2,15512,Grande,tarjeta
+52,5,81,2024-05-10,2024,5,10,May,Friday,2,19,Cordoba,2023-01-05,1035,True,Aceitunas Verdes 200g,Alimentos,5,2334,2520,186,8.0,12600,Mediana,tarjeta
+52,5,38,2024-05-10,2024,5,10,May,Friday,2,19,Cordoba,2023-01-05,1035,True,Mermelada de Frutilla 400g,Limpieza,3,1729,1584,-145,-8.4,4752,Pequeña,tarjeta
+53,56,28,2024-01-25,2024,1,25,January,Thursday,1,4,Rio Cuarto,2023-02-25,984,True,Papas Fritas Clásicas 100g,Limpieza,1,777,936,159,20.5,936,Pequeña,tarjeta
+54,1,65,2024-03-26,2024,3,26,March,Tuesday,1,13,Carlos Paz,2023-01-01,1039,True,Cerveza Rubia 1L,Alimentos,1,2602,2423,-179,-6.9,2423,Pequeña,tarjeta
+54,1,18,2024-03-26,2024,3,26,March,Tuesday,1,13,Carlos Paz,2023-01-01,1039,True,Queso Rallado 150g,Limpieza,2,3422,3444,22,0.6,6888,Mediana,tarjeta
+54,1,91,2024-03-26,2024,3,26,March,Tuesday,1,13,Carlos Paz,2023-01-01,1039,True,Desodorante Aerosol,Alimentos,3,4552,4690,138,3.0,14070,Mediana,tarjeta
+54,1,8,2024-03-26,2024,3,26,March,Tuesday,1,13,Carlos Paz,2023-01-01,1039,True,Energética Nitro 500ml,Limpieza,3,4369,4218,-151,-3.5,12654,Mediana,tarjeta
+55,100,39,2024-01-04,2024,1,4,January,Thursday,1,1,Cordoba,2023-04-10,940,True,Helado Vainilla 1L,Alimentos,4,499,469,-30,-6.0,1876,Pequeña,qr
+56,15,18,2024-06-14,2024,6,14,June,Friday,2,24,Cordoba,2023-01-15,1025,True,Queso Rallado 150g,Limpieza,5,3484,3444,-40,-1.1,17220,Grande,qr
+57,34,31,2024-01-10,2024,1,10,January,Wednesday,1,2,Villa Maria,2023-02-03,1006,True,Mix de Frutos Secos 200g,Alimentos,3,3260,3409,149,4.6,10227,Mediana,efectivo
+57,34,41,2024-01-10,2024,1,10,January,Wednesday,1,2,Villa Maria,2023-02-03,1006,True,Aceite de Girasol 1L,Alimentos,4,755,860,105,13.9,3440,Pequeña,efectivo
+57,34,9,2024-01-10,2024,1,10,January,Wednesday,1,2,Villa Maria,2023-02-03,1006,True,Yerba Mate Suave 1kg,Alimentos,5,4065,3878,-187,-4.6,19390,Grande,efectivo
+57,34,76,2024-01-10,2024,1,10,January,Wednesday,1,2,Villa Maria,2023-02-03,1006,True,Pizza Congelada Muzzarella,Limpieza,3,4307,4286,-21,-0.5,12858,Mediana,efectivo
+57,34,98,2024-01-10,2024,1,10,January,Wednesday,1,2,Villa Maria,2023-02-03,1006,True,Desengrasante 500ml,Limpieza,4,2873,2843,-30,-1.0,11372,Mediana,efectivo
+58,48,43,2024-02-04,2024,2,4,February,Sunday,1,5,Cordoba,2023-02-17,992,True,Salsa de Tomate 500g,Alimentos,2,923,887,-36,-3.9,1774,Pequeña,transferencia
+58,48,11,2024-02-04,2024,2,4,February,Sunday,1,5,Cordoba,2023-02-17,992,True,Café Molido 250g,Alimentos,1,1995,2053,58,2.9,2053,Pequeña,transferencia
+59,62,31,2024-04-28,2024,4,28,April,Sunday,2,17,Carlos Paz,2023-03-03,978,True,Mix de Frutos Secos 200g,Alimentos,1,3379,3409,30,0.9,3409,Pequeña,tarjeta
+59,62,8,2024-04-28,2024,4,28,April,Sunday,2,17,Carlos Paz,2023-03-03,978,True,Energética Nitro 500ml,Limpieza,2,4046,4218,172,4.3,8436,Mediana,tarjeta
+59,62,97,2024-04-28,2024,4,28,April,Sunday,2,17,Carlos Paz,2023-03-03,978,True,Limpiavidrios 500ml,Alimentos,5,707,872,165,23.3,4360,Pequeña,tarjeta
+60,81,43,2024-04-04,2024,4,4,April,Thursday,2,14,Carlos Paz,2023-03-22,959,True,Salsa de Tomate 500g,Alimentos,1,699,887,188,26.9,887,Pequeña,transferencia
+60,81,98,2024-04-04,2024,4,4,April,Thursday,2,14,Carlos Paz,2023-03-22,959,True,Desengrasante 500ml,Limpieza,3,2802,2843,41,1.5,8529,Mediana,transferencia
+60,81,15,2024-04-04,2024,4,4,April,Thursday,2,14,Carlos Paz,2023-03-22,959,True,Leche Descremada 1L,Alimentos,1,2664,2538,-126,-4.7,2538,Pequeña,transferencia
+60,81,21,2024-04-04,2024,4,4,April,Thursday,2,14,Carlos Paz,2023-03-22,959,True,Pan Lactal Integral,Alimentos,2,258,272,14,5.4,544,Pequeña,transferencia
+60,81,91,2024-04-04,2024,4,4,April,Thursday,2,14,Carlos Paz,2023-03-22,959,True,Desodorante Aerosol,Alimentos,4,4732,4690,-42,-0.9,18760,Grande,transferencia
+61,27,9,2024-06-01,2024,6,1,June,Saturday,2,22,Rio Cuarto,2023-01-27,1013,True,Yerba Mate Suave 1kg,Alimentos,3,3763,3878,115,3.1,11634,Mediana,efectivo
+61,27,19,2024-06-01,2024,6,1,June,Saturday,2,22,Rio Cuarto,2023-01-27,1013,True,Manteca 200g,Alimentos,3,3334,3251,-83,-2.5,9753,Mediana,efectivo
+62,100,47,2024-05-01,2024,5,1,May,Wednesday,2,18,Cordoba,2023-04-10,940,True,Garbanzos 500g,Alimentos,4,2804,2939,135,4.8,11756,Mediana,transferencia
+62,100,95,2024-05-01,2024,5,1,May,Wednesday,2,18,Cordoba,2023-04-10,940,True,Mascarilla Capilar,Alimentos,3,1550,1581,31,2.0,4743,Pequeña,transferencia
+63,25,8,2024-06-19,2024,6,19,June,Wednesday,2,25,Rio Cuarto,2023-01-25,1015,True,Energética Nitro 500ml,Limpieza,5,4062,4218,156,3.8,21090,Grande,tarjeta
+63,25,2,2024-06-19,2024,6,19,June,Wednesday,2,25,Rio Cuarto,2023-01-25,1015,True,Pepsi 1.5L,Limpieza,2,4834,4973,139,2.9,9946,Mediana,tarjeta
+63,25,70,2024-06-19,2024,6,19,June,Wednesday,2,25,Rio Cuarto,2023-01-25,1015,True,Fernet 750ml,Limpieza,3,3994,4061,67,1.7,12183,Mediana,tarjeta
+63,25,45,2024-06-19,2024,6,19,June,Wednesday,2,25,Rio Cuarto,2023-01-25,1015,True,Fideos Spaghetti 500g,Alimentos,4,828,745,-83,-10.0,2980,Pequeña,tarjeta
+64,58,4,2024-03-07,2024,3,7,March,Thursday,1,10,Rio Cuarto,2023-02-27,982,True,Fanta Naranja 1.5L,Limpieza,2,1860,2033,173,9.3,4066,Pequeña,qr
+64,58,41,2024-03-07,2024,3,7,March,Thursday,1,10,Rio Cuarto,2023-02-27,982,True,Aceite de Girasol 1L,Alimentos,2,767,860,93,12.1,1720,Pequeña,qr
+65,30,77,2024-04-30,2024,4,30,April,Tuesday,2,18,Alta Gracia,2023-01-30,1010,True,Empanadas Congeladas,Alimentos,4,4621,4778,157,3.4,19112,Grande,qr
+65,30,22,2024-04-30,2024,4,30,April,Tuesday,2,18,Alta Gracia,2023-01-30,1010,True,Medialunas de Manteca,Limpieza,3,2208,2069,-139,-6.3,6207,Mediana,qr
+65,30,38,2024-04-30,2024,4,30,April,Tuesday,2,18,Alta Gracia,2023-01-30,1010,True,Mermelada de Frutilla 400g,Limpieza,5,1669,1584,-85,-5.1,7920,Mediana,qr
+65,30,36,2024-04-30,2024,4,30,April,Tuesday,2,18,Alta Gracia,2023-01-30,1010,True,Dulce de Leche 400g,Limpieza,4,2689,2559,-130,-4.8,10236,Mediana,qr
+66,69,16,2024-03-14,2024,3,14,March,Thursday,1,11,Rio Cuarto,2023-03-10,971,True,Yogur Natural 200g,Limpieza,3,4540,4613,73,1.6,13839,Mediana,qr
+67,66,53,2024-03-21,2024,3,21,March,Thursday,1,12,Villa Maria,2023-03-07,974,True,Lavandina 1L,Alimentos,1,1811,1664,-147,-8.1,1664,Pequeña,efectivo
+67,66,8,2024-03-21,2024,3,21,March,Thursday,1,12,Villa Maria,2023-03-07,974,True,Energética Nitro 500ml,Limpieza,2,4248,4218,-30,-0.7,8436,Mediana,efectivo
+68,27,94,2024-06-28,2024,6,28,June,Friday,2,26,Rio Cuarto,2023-01-27,1013,True,Hilo Dental,Limpieza,4,1407,1418,11,0.8,5672,Mediana,qr
+69,42,76,2024-01-06,2024,1,6,January,Saturday,1,1,Alta Gracia,2023-02-11,998,True,Pizza Congelada Muzzarella,Limpieza,4,4310,4286,-24,-0.6,17144,Grande,qr
+69,42,74,2024-01-06,2024,1,6,January,Saturday,1,1,Alta Gracia,2023-02-11,998,True,Whisky 750ml,Limpieza,3,3137,2953,-184,-5.9,8859,Mediana,qr
+70,41,66,2024-02-02,2024,2,2,February,Friday,1,5,Alta Gracia,2023-02-10,999,True,Cerveza Negra 1L,Limpieza,3,1709,1533,-176,-10.3,4599,Pequeña,transferencia
+70,41,89,2024-02-02,2024,2,2,February,Friday,1,5,Alta Gracia,2023-02-10,999,True,Caldo Concentrado Verdura,Alimentos,4,1085,1003,-82,-7.6,4012,Pequeña,transferencia
+70,41,38,2024-02-02,2024,2,2,February,Friday,1,5,Alta Gracia,2023-02-10,999,True,Mermelada de Frutilla 400g,Limpieza,3,1504,1584,80,5.3,4752,Pequeña,transferencia
+71,40,11,2024-06-02,2024,6,2,June,Sunday,2,22,Rio Cuarto,2023-02-09,1000,True,Café Molido 250g,Alimentos,3,1968,2053,85,4.3,6159,Mediana,qr
+71,40,79,2024-06-02,2024,6,2,June,Sunday,2,22,Rio Cuarto,2023-02-09,1000,True,Hamburguesas Congeladas x4,Alimentos,4,2452,2420,-32,-1.3,9680,Mediana,qr
+71,40,100,2024-06-02,2024,6,2,June,Sunday,2,22,Rio Cuarto,2023-02-09,1000,True,Trapo de Piso,Limpieza,4,4912,4854,-58,-1.2,19416,Grande,qr
+71,40,92,2024-06-02,2024,6,2,June,Sunday,2,22,Rio Cuarto,2023-02-09,1000,True,Crema Dental 90g,Limpieza,1,2670,2512,-158,-5.9,2512,Pequeña,qr
+72,26,94,2024-02-17,2024,2,17,February,Saturday,1,7,Alta Gracia,2023-01-26,1014,True,Hilo Dental,Limpieza,3,1415,1418,3,0.2,4254,Pequeña,qr
+72,26,41,2024-02-17,2024,2,17,February,Saturday,1,7,Alta Gracia,2023-01-26,1014,True,Aceite de Girasol 1L,Alimentos,4,796,860,64,8.0,3440,Pequeña,qr
+72,26,51,2024-02-17,2024,2,17,February,Saturday,1,7,Alta Gracia,2023-01-26,1014,True,Sal Fina 500g,Alimentos,2,1862,1745,-117,-6.3,3490,Pequeña,qr
+73,42,28,2024-05-16,2024,5,16,May,Thursday,2,20,Alta Gracia,2023-02-11,998,True,Papas Fritas Clásicas 100g,Limpieza,1,900,936,36,4.0,936,Pequeña,transferencia
+73,42,24,2024-05-16,2024,5,16,May,Thursday,2,20,Alta Gracia,2023-02-11,998,True,Galletitas Chocolate,Limpieza,3,1329,1305,-24,-1.8,3915,Pequeña,transferencia
+73,42,19,2024-05-16,2024,5,16,May,Thursday,2,20,Alta Gracia,2023-02-11,998,True,Manteca 200g,Alimentos,1,3357,3251,-106,-3.2,3251,Pequeña,transferencia
+74,56,32,2024-04-26,2024,4,26,April,Friday,2,17,Rio Cuarto,2023-02-25,984,True,Chocolate Amargo 100g,Limpieza,3,2267,2234,-33,-1.5,6702,Mediana,efectivo
+74,56,14,2024-04-26,2024,4,26,April,Friday,2,17,Rio Cuarto,2023-02-25,984,True,Leche Entera 1L,Limpieza,2,1694,1723,29,1.7,3446,Pequeña,efectivo
+74,56,55,2024-04-26,2024,4,26,April,Friday,2,17,Rio Cuarto,2023-02-25,984,True,Shampoo 400ml,Alimentos,2,1358,1407,49,3.6,2814,Pequeña,efectivo
+75,61,3,2024-05-23,2024,5,23,May,Thursday,2,21,Rio Cuarto,2023-03-02,979,True,Sprite 1.5L,Alimentos,4,5078,4964,-114,-2.2,19856,Grande,qr
+75,61,2,2024-05-23,2024,5,23,May,Thursday,2,21,Rio Cuarto,2023-03-02,979,True,Pepsi 1.5L,Limpieza,5,5146,4973,-173,-3.4,24865,Grande,qr
+76,75,22,2024-05-15,2024,5,15,May,Wednesday,2,20,Rio Cuarto,2023-03-16,965,True,Medialunas de Manteca,Limpieza,4,2028,2069,41,2.0,8276,Mediana,tarjeta
+76,75,23,2024-05-15,2024,5,15,May,Wednesday,2,20,Rio Cuarto,2023-03-16,965,True,Bizcochos Salados,Alimentos,4,2275,2380,105,4.6,9520,Mediana,tarjeta
+76,75,24,2024-05-15,2024,5,15,May,Wednesday,2,20,Rio Cuarto,2023-03-16,965,True,Galletitas Chocolate,Limpieza,1,1337,1305,-32,-2.4,1305,Pequeña,tarjeta
+76,75,11,2024-05-15,2024,5,15,May,Wednesday,2,20,Rio Cuarto,2023-03-16,965,True,Café Molido 250g,Alimentos,2,2032,2053,21,1.0,4106,Pequeña,tarjeta
+77,55,53,2024-05-26,2024,5,26,May,Sunday,2,21,Mendiolaza,2023-02-24,985,True,Lavandina 1L,Alimentos,2,1576,1664,88,5.6,3328,Pequeña,tarjeta
+77,55,41,2024-05-26,2024,5,26,May,Sunday,2,21,Mendiolaza,2023-02-24,985,True,Aceite de Girasol 1L,Alimentos,1,977,860,-117,-12.0,860,Pequeña,tarjeta
+77,55,34,2024-05-26,2024,5,26,May,Sunday,2,21,Mendiolaza,2023-02-24,985,True,Turrón 50g,Limpieza,5,354,503,149,42.1,2515,Pequeña,tarjeta
+77,55,98,2024-05-26,2024,5,26,May,Sunday,2,21,Mendiolaza,2023-02-24,985,True,Desengrasante 500ml,Limpieza,2,2910,2843,-67,-2.3,5686,Mediana,tarjeta
+77,55,39,2024-05-26,2024,5,26,May,Sunday,2,21,Mendiolaza,2023-02-24,985,True,Helado Vainilla 1L,Alimentos,2,563,469,-94,-16.7,938,Pequeña,tarjeta
+78,12,37,2024-04-29,2024,4,29,April,Monday,2,18,Alta Gracia,2023-01-12,1028,True,Mermelada de Durazno 400g,Alimentos,3,3381,3196,-185,-5.5,9588,Mediana,qr
+78,12,79,2024-04-29,2024,4,29,April,Monday,2,18,Alta Gracia,2023-01-12,1028,True,Hamburguesas Congeladas x4,Alimentos,5,2606,2420,-186,-7.1,12100,Mediana,qr
+78,12,17,2024-04-29,2024,4,29,April,Monday,2,18,Alta Gracia,2023-01-12,1028,True,Queso Cremoso 500g,Alimentos,2,4746,4834,88,1.9,9668,Mediana,qr
+78,12,85,2024-04-29,2024,4,29,April,Monday,2,18,Alta Gracia,2023-01-12,1028,True,Jugo en Polvo Naranja,Alimentos,1,1756,1856,100,5.7,1856,Pequeña,qr
+78,12,39,2024-04-29,2024,4,29,April,Monday,2,18,Alta Gracia,2023-01-12,1028,True,Helado Vainilla 1L,Alimentos,2,381,469,88,23.1,938,Pequeña,qr
+79,57,81,2024-06-06,2024,6,6,June,Thursday,2,23,Rio Cuarto,2023-02-26,983,True,Aceitunas Verdes 200g,Alimentos,2,2400,2520,120,5.0,5040,Mediana,qr
+79,57,56,2024-06-06,2024,6,6,June,Thursday,2,23,Rio Cuarto,2023-02-26,983,True,Papel Higiénico x4,Limpieza,2,2518,2532,14,0.6,5064,Mediana,qr
+80,54,39,2024-03-25,2024,3,25,March,Monday,1,13,Alta Gracia,2023-02-23,986,True,Helado Vainilla 1L,Alimentos,5,381,469,88,23.1,2345,Pequeña,efectivo
+80,54,30,2024-03-25,2024,3,25,March,Monday,1,13,Alta Gracia,2023-02-23,986,True,Maní Salado 200g,Limpieza,3,4676,4875,199,4.3,14625,Mediana,efectivo
+80,54,41,2024-03-25,2024,3,25,March,Monday,1,13,Alta Gracia,2023-02-23,986,True,Aceite de Girasol 1L,Alimentos,5,789,860,71,9.0,4300,Pequeña,efectivo
+81,49,10,2024-03-09,2024,3,9,March,Saturday,1,10,Rio Cuarto,2023-02-18,991,True,Yerba Mate Intensa 1kg,Limpieza,2,4902,4883,-19,-0.4,9766,Mediana,transferencia
+82,19,38,2024-01-25,2024,1,25,January,Thursday,1,4,Mendiolaza,2023-01-19,1021,True,Mermelada de Frutilla 400g,Limpieza,1,1437,1584,147,10.2,1584,Pequeña,tarjeta
+82,19,28,2024-01-25,2024,1,25,January,Thursday,1,4,Mendiolaza,2023-01-19,1021,True,Papas Fritas Clásicas 100g,Limpieza,2,1078,936,-142,-13.2,1872,Pequeña,tarjeta
+82,19,29,2024-01-25,2024,1,25,January,Thursday,1,4,Mendiolaza,2023-01-19,1021,True,Papas Fritas Onduladas 100g,Alimentos,5,1891,1868,-23,-1.2,9340,Mediana,tarjeta
+82,19,82,2024-01-25,2024,1,25,January,Thursday,1,4,Mendiolaza,2023-01-19,1021,True,Aceitunas Negras 200g,Limpieza,2,2418,2394,-24,-1.0,4788,Pequeña,tarjeta
+83,91,5,2024-05-28,2024,5,28,May,Tuesday,2,22,Mendiolaza,2023-04-01,949,True,Agua Mineral 500ml,Alimentos,2,4961,4777,-184,-3.7,9554,Mediana,efectivo
+83,91,26,2024-05-28,2024,5,28,May,Tuesday,2,22,Mendiolaza,2023-04-01,949,True,Alfajor Triple,Limpieza,2,926,1001,75,8.1,2002,Pequeña,efectivo
+83,91,73,2024-05-28,2024,5,28,May,Tuesday,2,22,Mendiolaza,2023-04-01,949,True,Gin 700ml,Alimentos,5,1490,1561,71,4.8,7805,Mediana,efectivo
+83,91,51,2024-05-28,2024,5,28,May,Tuesday,2,22,Mendiolaza,2023-04-01,949,True,Sal Fina 500g,Alimentos,2,1597,1745,148,9.3,3490,Pequeña,efectivo
+84,72,83,2024-01-02,2024,1,2,January,Tuesday,1,1,Cordoba,2023-03-13,968,True,Queso Untable 190g,Alimentos,5,1801,1830,29,1.6,9150,Mediana,efectivo
+84,72,76,2024-01-02,2024,1,2,January,Tuesday,1,1,Cordoba,2023-03-13,968,True,Pizza Congelada Muzzarella,Limpieza,4,4303,4286,-17,-0.4,17144,Grande,efectivo
+85,42,32,2024-01-23,2024,1,23,January,Tuesday,1,4,Alta Gracia,2023-02-11,998,True,Chocolate Amargo 100g,Limpieza,4,2193,2234,41,1.9,8936,Mediana,transferencia
+85,42,80,2024-01-23,2024,1,23,January,Tuesday,1,4,Alta Gracia,2023-02-11,998,True,Helado de Frutilla 1L,Limpieza,2,1978,1981,3,0.2,3962,Pequeña,transferencia
+86,40,66,2024-01-10,2024,1,10,January,Wednesday,1,2,Rio Cuarto,2023-02-09,1000,True,Cerveza Negra 1L,Limpieza,2,1579,1533,-46,-2.9,3066,Pequeña,efectivo
+86,40,1,2024-01-10,2024,1,10,January,Wednesday,1,2,Rio Cuarto,2023-02-09,1000,True,Coca Cola 1.5L,Alimentos,4,2470,2347,-123,-5.0,9388,Mediana,efectivo
+86,40,13,2024-01-10,2024,1,10,January,Wednesday,1,2,Rio Cuarto,2023-02-09,1000,True,Té Verde 20 saquitos,Alimentos,5,2385,2383,-2,-0.1,11915,Mediana,efectivo
+86,40,41,2024-01-10,2024,1,10,January,Wednesday,1,2,Rio Cuarto,2023-02-09,1000,True,Aceite de Girasol 1L,Alimentos,3,843,860,17,2.0,2580,Pequeña,efectivo
+87,100,53,2024-04-20,2024,4,20,April,Saturday,2,16,Cordoba,2023-04-10,940,True,Lavandina 1L,Alimentos,2,1586,1664,78,4.9,3328,Pequeña,qr
+87,100,86,2024-04-20,2024,4,20,April,Saturday,2,16,Cordoba,2023-04-10,940,True,Jugo en Polvo Limón,Limpieza,2,4144,4090,-54,-1.3,8180,Mediana,qr
+88,37,7,2024-06-21,2024,6,21,June,Friday,2,25,Mendiolaza,2023-02-06,1003,True,Jugo de Manzana 1L,Alimentos,5,3362,3269,-93,-2.8,16345,Grande,efectivo
+88,37,53,2024-06-21,2024,6,21,June,Friday,2,25,Mendiolaza,2023-02-06,1003,True,Lavandina 1L,Alimentos,5,1743,1664,-79,-4.5,8320,Mediana,efectivo
+88,37,8,2024-06-21,2024,6,21,June,Friday,2,25,Mendiolaza,2023-02-06,1003,True,Energética Nitro 500ml,Limpieza,4,4342,4218,-124,-2.9,16872,Grande,efectivo
+89,17,72,2024-01-18,2024,1,18,January,Thursday,1,3,Villa Maria,2023-01-17,1023,True,Ron 700ml,Limpieza,2,4047,3876,-171,-4.2,7752,Mediana,tarjeta
+90,46,79,2024-01-08,2024,1,8,January,Monday,1,2,Alta Gracia,2023-02-15,994,True,Hamburguesas Congeladas x4,Alimentos,4,2317,2420,103,4.4,9680,Mediana,qr
+90,46,6,2024-01-08,2024,1,8,January,Monday,1,2,Alta Gracia,2023-02-15,994,True,Jugo de Naranja 1L,Limpieza,2,4167,4170,3,0.1,8340,Mediana,qr
+91,39,57,2024-02-19,2024,2,19,February,Monday,1,8,Alta Gracia,2023-02-08,1001,True,Servilletas x100,Alimentos,3,4714,4520,-194,-4.1,13560,Mediana,efectivo
+92,42,10,2024-02-09,2024,2,9,February,Friday,1,6,Alta Gracia,2023-02-11,998,True,Yerba Mate Intensa 1kg,Limpieza,2,4922,4883,-39,-0.8,9766,Mediana,transferencia
+92,42,43,2024-02-09,2024,2,9,February,Friday,1,6,Alta Gracia,2023-02-11,998,True,Salsa de Tomate 500g,Alimentos,4,830,887,57,6.9,3548,Pequeña,transferencia
+93,90,80,2024-01-29,2024,1,29,January,Monday,1,5,Rio Cuarto,2023-03-31,950,True,Helado de Frutilla 1L,Limpieza,4,1877,1981,104,5.5,7924,Mediana,efectivo
+93,90,66,2024-01-29,2024,1,29,January,Monday,1,5,Rio Cuarto,2023-03-31,950,True,Cerveza Negra 1L,Limpieza,3,1533,1533,0,0.0,4599,Pequeña,efectivo
+93,90,91,2024-01-29,2024,1,29,January,Monday,1,5,Rio Cuarto,2023-03-31,950,True,Desodorante Aerosol,Alimentos,3,4613,4690,77,1.7,14070,Mediana,efectivo
+94,41,24,2024-03-06,2024,3,6,March,Wednesday,1,10,Alta Gracia,2023-02-10,999,True,Galletitas Chocolate,Limpieza,1,1291,1305,14,1.1,1305,Pequeña,qr
+94,41,86,2024-03-06,2024,3,6,March,Wednesday,1,10,Alta Gracia,2023-02-10,999,True,Jugo en Polvo Limón,Limpieza,5,4215,4090,-125,-3.0,20450,Grande,qr
+94,41,98,2024-03-06,2024,3,6,March,Wednesday,1,10,Alta Gracia,2023-02-10,999,True,Desengrasante 500ml,Limpieza,2,2991,2843,-148,-4.9,5686,Mediana,qr
+95,26,72,2024-02-25,2024,2,25,February,Sunday,1,8,Alta Gracia,2023-01-26,1014,True,Ron 700ml,Limpieza,5,3934,3876,-58,-1.5,19380,Grande,qr
+95,26,12,2024-02-25,2024,2,25,February,Sunday,1,8,Alta Gracia,2023-01-26,1014,True,Té Negro 20 saquitos,Limpieza,1,517,570,53,10.3,570,Pequeña,qr
+96,83,81,2024-02-23,2024,2,23,February,Friday,1,8,Rio Cuarto,2023-03-24,957,True,Aceitunas Verdes 200g,Alimentos,3,2571,2520,-51,-2.0,7560,Mediana,tarjeta
+96,83,68,2024-02-23,2024,2,23,February,Friday,1,8,Rio Cuarto,2023-03-24,957,True,Vino Blanco 750ml,Limpieza,1,2829,2684,-145,-5.1,2684,Pequeña,tarjeta
+96,83,11,2024-02-23,2024,2,23,February,Friday,1,8,Rio Cuarto,2023-03-24,957,True,Café Molido 250g,Alimentos,2,1999,2053,54,2.7,4106,Pequeña,tarjeta
+96,83,50,2024-02-23,2024,2,23,February,Friday,1,8,Rio Cuarto,2023-03-24,957,True,Azúcar 1kg,Limpieza,3,674,727,53,7.9,2181,Pequeña,tarjeta
+97,39,59,2024-06-16,2024,6,16,June,Sunday,2,24,Alta Gracia,2023-02-08,1001,True,Chicle Menta,Alimentos,5,3763,3612,-151,-4.0,18060,Grande,efectivo
+97,39,36,2024-06-16,2024,6,16,June,Sunday,2,24,Alta Gracia,2023-02-08,1001,True,Dulce de Leche 400g,Limpieza,1,2557,2559,2,0.1,2559,Pequeña,efectivo
+97,39,4,2024-06-16,2024,6,16,June,Sunday,2,24,Alta Gracia,2023-02-08,1001,True,Fanta Naranja 1.5L,Limpieza,3,2140,2033,-107,-5.0,6099,Mediana,efectivo
+98,43,28,2024-01-12,2024,1,12,January,Friday,1,2,Mendiolaza,2023-02-12,997,True,Papas Fritas Clásicas 100g,Limpieza,4,863,936,73,8.5,3744,Pequeña,transferencia
+98,43,61,2024-01-12,2024,1,12,January,Friday,1,2,Mendiolaza,2023-02-12,997,True,Miel Pura 250g,Alimentos,1,4820,4982,162,3.4,4982,Pequeña,transferencia
+98,43,29,2024-01-12,2024,1,12,January,Friday,1,2,Mendiolaza,2023-02-12,997,True,Papas Fritas Onduladas 100g,Alimentos,1,2005,1868,-137,-6.8,1868,Pequeña,transferencia
+98,43,83,2024-01-12,2024,1,12,January,Friday,1,2,Mendiolaza,2023-02-12,997,True,Queso Untable 190g,Alimentos,3,1989,1830,-159,-8.0,5490,Mediana,transferencia
+99,51,40,2024-03-13,2024,3,13,March,Wednesday,1,11,Rio Cuarto,2023-02-20,989,True,Helado Chocolate 1L,Limpieza,5,1143,1215,72,6.3,6075,Mediana,transferencia
+100,69,13,2024-06-08,2024,6,8,June,Saturday,2,23,Rio Cuarto,2023-03-10,971,True,Té Verde 20 saquitos,Alimentos,3,2449,2383,-66,-2.7,7149,Mediana,qr
+100,69,18,2024-06-08,2024,6,8,June,Saturday,2,23,Rio Cuarto,2023-03-10,971,True,Queso Rallado 150g,Limpieza,4,3394,3444,50,1.5,13776,Mediana,qr
+100,69,58,2024-06-08,2024,6,8,June,Saturday,2,23,Rio Cuarto,2023-03-10,971,True,Caramelos Masticables,Limpieza,2,4849,4752,-97,-2.0,9504,Mediana,qr
+100,69,57,2024-06-08,2024,6,8,June,Saturday,2,23,Rio Cuarto,2023-03-10,971,True,Servilletas x100,Alimentos,1,4418,4520,102,2.3,4520,Pequeña,qr
+100,69,9,2024-06-08,2024,6,8,June,Saturday,2,23,Rio Cuarto,2023-03-10,971,True,Yerba Mate Suave 1kg,Alimentos,4,3940,3878,-62,-1.6,15512,Grande,qr
+101,72,34,2024-03-28,2024,3,28,March,Thursday,1,13,Cordoba,2023-03-13,968,True,Turrón 50g,Limpieza,4,554,503,-51,-9.2,2012,Pequeña,efectivo
+102,18,78,2024-03-29,2024,3,29,March,Friday,1,13,Carlos Paz,2023-01-18,1022,True,Verduras Congeladas Mix,Limpieza,3,4232,4289,57,1.3,12867,Mediana,efectivo
+102,18,36,2024-03-29,2024,3,29,March,Friday,1,13,Carlos Paz,2023-01-18,1022,True,Dulce de Leche 400g,Limpieza,3,2704,2559,-145,-5.4,7677,Mediana,efectivo
+103,39,79,2024-03-11,2024,3,11,March,Monday,1,11,Alta Gracia,2023-02-08,1001,True,Hamburguesas Congeladas x4,Alimentos,5,2331,2420,89,3.8,12100,Mediana,efectivo
+103,39,43,2024-03-11,2024,3,11,March,Monday,1,11,Alta Gracia,2023-02-08,1001,True,Salsa de Tomate 500g,Alimentos,5,746,887,141,18.9,4435,Pequeña,efectivo
+103,39,34,2024-03-11,2024,3,11,March,Monday,1,11,Alta Gracia,2023-02-08,1001,True,Turrón 50g,Limpieza,1,671,503,-168,-25.0,503,Pequeña,efectivo
+103,39,70,2024-03-11,2024,3,11,March,Monday,1,11,Alta Gracia,2023-02-08,1001,True,Fernet 750ml,Limpieza,1,3862,4061,199,5.2,4061,Pequeña,efectivo
+104,86,95,2024-06-17,2024,6,17,June,Monday,2,25,Cordoba,2023-03-27,954,True,Mascarilla Capilar,Alimentos,2,1765,1581,-184,-10.4,3162,Pequeña,qr
+104,86,68,2024-06-17,2024,6,17,June,Monday,2,25,Cordoba,2023-03-27,954,True,Vino Blanco 750ml,Limpieza,3,2787,2684,-103,-3.7,8052,Mediana,qr
+104,86,68,2024-06-17,2024,6,17,June,Monday,2,25,Cordoba,2023-03-27,954,True,Vino Blanco 750ml,Limpieza,5,2737,2684,-53,-1.9,13420,Mediana,qr
+105,1,13,2024-02-06,2024,2,6,February,Tuesday,1,6,Carlos Paz,2023-01-01,1039,True,Té Verde 20 saquitos,Alimentos,2,2322,2383,61,2.6,4766,Pequeña,transferencia
+105,1,4,2024-02-06,2024,2,6,February,Tuesday,1,6,Carlos Paz,2023-01-01,1039,True,Fanta Naranja 1.5L,Limpieza,4,1869,2033,164,8.8,8132,Mediana,transferencia
+105,1,58,2024-02-06,2024,2,6,February,Tuesday,1,6,Carlos Paz,2023-01-01,1039,True,Caramelos Masticables,Limpieza,2,4711,4752,41,0.9,9504,Mediana,transferencia
+105,1,82,2024-02-06,2024,2,6,February,Tuesday,1,6,Carlos Paz,2023-01-01,1039,True,Aceitunas Negras 200g,Limpieza,4,2202,2394,192,8.7,9576,Mediana,transferencia
+105,1,43,2024-02-06,2024,2,6,February,Tuesday,1,6,Carlos Paz,2023-01-01,1039,True,Salsa de Tomate 500g,Alimentos,5,919,887,-32,-3.5,4435,Pequeña,transferencia
+106,82,88,2024-03-24,2024,3,24,March,Sunday,1,12,Alta Gracia,2023-03-23,958,True,Caldo Concentrado Carne,Limpieza,3,2468,2570,102,4.1,7710,Mediana,transferencia
+107,14,7,2024-05-21,2024,5,21,May,Tuesday,2,21,Carlos Paz,2023-01-14,1026,True,Jugo de Manzana 1L,Alimentos,4,3215,3269,54,1.7,13076,Mediana,efectivo
+107,14,11,2024-05-21,2024,5,21,May,Tuesday,2,21,Carlos Paz,2023-01-14,1026,True,Café Molido 250g,Alimentos,2,2156,2053,-103,-4.8,4106,Pequeña,efectivo
+107,14,12,2024-05-21,2024,5,21,May,Tuesday,2,21,Carlos Paz,2023-01-14,1026,True,Té Negro 20 saquitos,Limpieza,4,577,570,-7,-1.2,2280,Pequeña,efectivo
+107,14,5,2024-05-21,2024,5,21,May,Tuesday,2,21,Carlos Paz,2023-01-14,1026,True,Agua Mineral 500ml,Alimentos,4,4707,4777,70,1.5,19108,Grande,efectivo
+108,9,90,2024-03-25,2024,3,25,March,Monday,1,13,Carlos Paz,2023-01-09,1031,True,Toallas Húmedas x50,Limpieza,4,2853,2902,49,1.7,11608,Mediana,tarjeta
+109,64,18,2024-06-04,2024,6,4,June,Tuesday,2,23,Villa Maria,2023-03-05,976,True,Queso Rallado 150g,Limpieza,1,3297,3444,147,4.5,3444,Pequeña,transferencia
+109,64,74,2024-06-04,2024,6,4,June,Tuesday,2,23,Villa Maria,2023-03-05,976,True,Whisky 750ml,Limpieza,1,2872,2953,81,2.8,2953,Pequeña,transferencia
+109,64,20,2024-06-04,2024,6,4,June,Tuesday,2,23,Villa Maria,2023-03-05,976,True,Pan Lactal Blanco,Limpieza,2,1531,1571,40,2.6,3142,Pequeña,transferencia
+109,64,44,2024-06-04,2024,6,4,June,Tuesday,2,23,Villa Maria,2023-03-05,976,True,Arroz Largo Fino 1kg,Limpieza,5,2894,2979,85,2.9,14895,Mediana,transferencia
+110,92,6,2024-05-19,2024,5,19,May,Sunday,2,20,Alta Gracia,2023-04-02,948,True,Jugo de Naranja 1L,Limpieza,1,4044,4170,126,3.1,4170,Pequeña,efectivo
+110,92,59,2024-05-19,2024,5,19,May,Sunday,2,20,Alta Gracia,2023-04-02,948,True,Chicle Menta,Alimentos,3,3524,3612,88,2.5,10836,Mediana,efectivo
+110,92,6,2024-05-19,2024,5,19,May,Sunday,2,20,Alta Gracia,2023-04-02,948,True,Jugo de Naranja 1L,Limpieza,5,4073,4170,97,2.4,20850,Grande,efectivo
+111,48,97,2024-02-12,2024,2,12,February,Monday,1,7,Cordoba,2023-02-17,992,True,Limpiavidrios 500ml,Alimentos,4,1011,872,-139,-13.7,3488,Pequeña,efectivo
+111,48,93,2024-02-12,2024,2,12,February,Monday,1,7,Cordoba,2023-02-17,992,True,Cepillo de Dientes,Alimentos,3,2195,2142,-53,-2.4,6426,Mediana,efectivo
+111,48,20,2024-02-12,2024,2,12,February,Monday,1,7,Cordoba,2023-02-17,992,True,Pan Lactal Blanco,Limpieza,2,1597,1571,-26,-1.6,3142,Pequeña,efectivo
+111,48,23,2024-02-12,2024,2,12,February,Monday,1,7,Cordoba,2023-02-17,992,True,Bizcochos Salados,Alimentos,4,2291,2380,89,3.9,9520,Mediana,efectivo
+112,28,55,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-28,1012,True,Shampoo 400ml,Alimentos,1,1305,1407,102,7.8,1407,Pequeña,tarjeta
+112,28,21,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-28,1012,True,Pan Lactal Integral,Alimentos,4,224,272,48,21.4,1088,Pequeña,tarjeta
+112,28,43,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-28,1012,True,Salsa de Tomate 500g,Alimentos,5,1035,887,-148,-14.3,4435,Pequeña,tarjeta
+112,28,13,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-28,1012,True,Té Verde 20 saquitos,Alimentos,2,2566,2383,-183,-7.1,4766,Pequeña,tarjeta
+112,28,59,2024-01-19,2024,1,19,January,Friday,1,3,Cordoba,2023-01-28,1012,True,Chicle Menta,Alimentos,1,3777,3612,-165,-4.4,3612,Pequeña,tarjeta
+113,98,53,2024-03-08,2024,3,8,March,Friday,1,10,Cordoba,2023-04-08,942,True,Lavandina 1L,Alimentos,2,1801,1664,-137,-7.6,3328,Pequeña,transferencia
+113,98,92,2024-03-08,2024,3,8,March,Friday,1,10,Cordoba,2023-04-08,942,True,Crema Dental 90g,Limpieza,3,2505,2512,7,0.3,7536,Mediana,transferencia
+114,16,8,2024-05-05,2024,5,5,May,Sunday,2,18,Rio Cuarto,2023-01-16,1024,True,Energética Nitro 500ml,Limpieza,1,4327,4218,-109,-2.5,4218,Pequeña,qr
+114,16,84,2024-05-05,2024,5,5,May,Sunday,2,18,Rio Cuarto,2023-01-16,1024,True,Queso Azul 150g,Limpieza,1,1607,1645,38,2.4,1645,Pequeña,qr
+114,16,10,2024-05-05,2024,5,5,May,Sunday,2,18,Rio Cuarto,2023-01-16,1024,True,Yerba Mate Intensa 1kg,Limpieza,1,4890,4883,-7,-0.1,4883,Pequeña,qr
+114,16,55,2024-05-05,2024,5,5,May,Sunday,2,18,Rio Cuarto,2023-01-16,1024,True,Shampoo 400ml,Alimentos,5,1375,1407,32,2.3,7035,Mediana,qr
+114,16,92,2024-05-05,2024,5,5,May,Sunday,2,18,Rio Cuarto,2023-01-16,1024,True,Crema Dental 90g,Limpieza,4,2472,2512,40,1.6,10048,Mediana,qr
+115,3,17,2024-02-16,2024,2,16,February,Friday,1,7,Rio Cuarto,2023-01-03,1037,True,Queso Cremoso 500g,Alimentos,4,4701,4834,133,2.8,19336,Grande,transferencia
+115,3,97,2024-02-16,2024,2,16,February,Friday,1,7,Rio Cuarto,2023-01-03,1037,True,Limpiavidrios 500ml,Alimentos,5,960,872,-88,-9.2,4360,Pequeña,transferencia
+115,3,95,2024-02-16,2024,2,16,February,Friday,1,7,Rio Cuarto,2023-01-03,1037,True,Mascarilla Capilar,Alimentos,4,1778,1581,-197,-11.1,6324,Mediana,transferencia
+115,3,84,2024-02-16,2024,2,16,February,Friday,1,7,Rio Cuarto,2023-01-03,1037,True,Queso Azul 150g,Limpieza,2,1721,1645,-76,-4.4,3290,Pequeña,transferencia
+116,25,65,2024-03-18,2024,3,18,March,Monday,1,12,Rio Cuarto,2023-01-25,1015,True,Cerveza Rubia 1L,Alimentos,1,2526,2423,-103,-4.1,2423,Pequeña,qr
+116,25,35,2024-03-18,2024,3,18,March,Monday,1,12,Rio Cuarto,2023-01-25,1015,True,Barrita de Cereal 30g,Alimentos,2,4613,4430,-183,-4.0,8860,Mediana,qr
+116,25,42,2024-03-18,2024,3,18,March,Monday,1,12,Rio Cuarto,2023-01-25,1015,True,Vinagre de Alcohol 500ml,Limpieza,4,1386,1195,-191,-13.8,4780,Pequeña,qr
+116,25,54,2024-03-18,2024,3,18,March,Monday,1,12,Rio Cuarto,2023-01-25,1015,True,Jabón de Tocador,Limpieza,5,1526,1592,66,4.3,7960,Mediana,qr
+116,25,90,2024-03-18,2024,3,18,March,Monday,1,12,Rio Cuarto,2023-01-25,1015,True,Toallas Húmedas x50,Limpieza,4,2896,2902,6,0.2,11608,Mediana,qr
+117,72,67,2024-03-14,2024,3,14,March,Thursday,1,11,Cordoba,2023-03-13,968,True,Vino Tinto Malbec 750ml,Alimentos,4,4646,4719,73,1.6,18876,Grande,tarjeta
+117,72,61,2024-03-14,2024,3,14,March,Thursday,1,11,Cordoba,2023-03-13,968,True,Miel Pura 250g,Alimentos,2,4814,4982,168,3.5,9964,Mediana,tarjeta
+118,84,68,2024-02-09,2024,2,9,February,Friday,1,6,Cordoba,2023-03-25,956,True,Vino Blanco 750ml,Limpieza,5,2659,2684,25,0.9,13420,Mediana,efectivo
+118,84,68,2024-02-09,2024,2,9,February,Friday,1,6,Cordoba,2023-03-25,956,True,Vino Blanco 750ml,Limpieza,3,2854,2684,-170,-6.0,8052,Mediana,efectivo
+118,84,70,2024-02-09,2024,2,9,February,Friday,1,6,Cordoba,2023-03-25,956,True,Fernet 750ml,Limpieza,2,4235,4061,-174,-4.1,8122,Mediana,efectivo
+118,84,93,2024-02-09,2024,2,9,February,Friday,1,6,Cordoba,2023-03-25,956,True,Cepillo de Dientes,Alimentos,3,1963,2142,179,9.1,6426,Mediana,efectivo
+118,84,50,2024-02-09,2024,2,9,February,Friday,1,6,Cordoba,2023-03-25,956,True,Azúcar 1kg,Limpieza,2,764,727,-37,-4.8,1454,Pequeña,efectivo
+119,51,45,2024-02-07,2024,2,7,February,Wednesday,1,6,Rio Cuarto,2023-02-20,989,True,Fideos Spaghetti 500g,Alimentos,5,702,745,43,6.1,3725,Pequeña,qr
+120,72,20,2024-04-21,2024,4,21,April,Sunday,2,16,Cordoba,2023-03-13,968,True,Pan Lactal Blanco,Limpieza,5,1408,1571,163,11.6,7855,Mediana,tarjeta
