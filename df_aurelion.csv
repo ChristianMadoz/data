@@ -1,0 +1,344 @@
+id_venta,fecha_venta,id_cliente,email,medio_pago,ciudad_cliente,fecha_alta_cliente,id_producto,nombre_producto,cantidad_vendida,precio_unitario_venta,importe_vendido,categoria_producto
+1,6/19/2024,62,guadalupe.romero@mail.com,tarjeta,Carlos Paz,3/3/2023,90,Toallas Húmedas x50,1,"2,902.00","2,902.00",Limpieza
+31,5/22/2024,19,uma.silva@mail.com,tarjeta,Mendiolaza,1/19/2023,90,Toallas Húmedas x50,3,"2,902.00","8,706.00",Limpieza
+43,2/18/2024,23,helena.fernandez@mail.com,efectivo,Rio Cuarto,1/23/2023,1,Coca Cola 1.5L,5,"2,347.00","11,735.00",Alimentos
+3,1/13/2024,20,tomas.acosta@mail.com,tarjeta,Rio Cuarto,1/20/2023,2,Pepsi 1.5L,2,"4,973.00","9,946.00",Alimentos
+2,3/17/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,82,Aceitunas Negras 200g,5,"2,394.00","11,970.00",Alimentos
+4,2/27/2024,36,martina.molina@mail.com,transferencia,Mendiolaza,2/5/2023,4,Fanta Naranja 1.5L,2,"2,033.00","4,066.00",Alimentos
+18,6/11/2024,81,camila.ruiz@mail.com,qr,Carlos Paz,3/22/2023,4,Fanta Naranja 1.5L,5,"2,033.00","10,165.00",Alimentos
+38,5/29/2024,56,bruno.diaz@mail.com,tarjeta,Rio Cuarto,2/25/2023,5,Agua Mineral 500ml,3,"4,777.00","14,331.00",Alimentos
+2,3/17/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,39,Helado Vainilla 1L,5,469,"2,345.00",Alimentos
+2,3/17/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,70,Fernet 750ml,2,"4,061.00","8,122.00",Alimentos
+27,2/25/2024,9,yamila.molina@mail.com,transferencia,Carlos Paz,1/9/2023,7,Jugo de Manzana 1L,4,"3,269.00","13,076.00",Alimentos
+3,1/13/2024,20,tomas.acosta@mail.com,tarjeta,Rio Cuarto,1/20/2023,9,Yerba Mate Suave 1kg,2,"3,878.00","7,756.00",Alimentos
+22,5/8/2024,64,julian.alvarez@mail.com,transferencia,Villa Maria,3/5/2023,9,Yerba Mate Suave 1kg,2,"3,878.00","7,756.00",Alimentos
+2,3/17/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,22,Medialunas de Manteca,1,"2,069.00","2,069.00",Alimentos
+39,3/5/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,22,Medialunas de Manteca,2,"2,069.00","4,138.00",Alimentos
+18,6/11/2024,81,camila.ruiz@mail.com,qr,Carlos Paz,3/22/2023,22,Medialunas de Manteca,5,"2,069.00","10,345.00",Alimentos
+11,4/10/2024,20,tomas.acosta@mail.com,qr,Rio Cuarto,1/20/2023,13,Té Verde 20 saquitos,1,"2,383.00","2,383.00",Alimentos
+13,1/24/2024,6,uma.medina@mail.com,tarjeta,Villa Maria,1/6/2023,13,Té Verde 20 saquitos,1,"2,383.00","2,383.00",Alimentos
+2,3/17/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,79,Hamburguesas Congeladas x4,4,"2,420.00","9,680.00",Alimentos
+26,1/23/2024,49,olivia.gomez@mail.com,efectivo,Rio Cuarto,2/18/2023,79,Hamburguesas Congeladas x4,2,"2,420.00","4,840.00",Alimentos
+38,5/29/2024,56,bruno.diaz@mail.com,tarjeta,Rio Cuarto,2/25/2023,14,Leche Entera 1L,3,"1,723.00","5,169.00",Alimentos
+18,6/11/2024,81,camila.ruiz@mail.com,qr,Carlos Paz,3/22/2023,15,Leche Descremada 1L,3,"2,538.00","7,614.00",Alimentos
+26,1/23/2024,49,olivia.gomez@mail.com,efectivo,Rio Cuarto,2/18/2023,86,Jugo en Polvo Limón,1,"4,090.00","4,090.00",Alimentos
+5,6/11/2024,56,bruno.diaz@mail.com,tarjeta,Rio Cuarto,2/25/2023,86,Jugo en Polvo Limón,4,"4,090.00","16,360.00",Alimentos
+8,1/6/2024,66,tomas.herrera@mail.com,transferencia,Villa Maria,3/7/2023,18,Queso Rallado 150g,4,"3,444.00","13,776.00",Alimentos
+28,5/20/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,18,Queso Rallado 150g,2,"3,444.00","6,888.00",Alimentos
+29,2/20/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,58,Caramelos Masticables,1,"4,752.00","4,752.00",Alimentos
+39,3/5/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,58,Caramelos Masticables,4,"4,752.00","19,008.00",Alimentos
+29,2/20/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,36,Dulce de Leche 400g,2,"2,559.00","5,118.00",Alimentos
+10,5/28/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,36,Dulce de Leche 400g,2,"2,559.00","5,118.00",Alimentos
+14,4/18/2024,67,ivana.romero@mail.com,qr,Alta Gracia,3/8/2023,36,Dulce de Leche 400g,4,"2,559.00","10,236.00",Alimentos
+4,2/27/2024,36,martina.molina@mail.com,transferencia,Mendiolaza,2/5/2023,23,Bizcochos Salados,5,"2,380.00","11,900.00",Alimentos
+18,6/11/2024,81,camila.ruiz@mail.com,qr,Carlos Paz,3/22/2023,24,Galletitas Chocolate,2,"1,305.00","2,610.00",Alimentos
+22,5/8/2024,64,julian.alvarez@mail.com,transferencia,Villa Maria,3/5/2023,24,Galletitas Chocolate,4,"1,305.00","5,220.00",Alimentos
+6,5/5/2024,91,uma.sanchez@mail.com,transferencia,Mendiolaza,4/1/2023,25,Galletitas Vainilla,2,"4,015.00","8,030.00",Alimentos
+29,2/20/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,71,Vodka 700ml,4,508,"2,032.00",Alimentos
+29,2/20/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,27,Alfajor Simple,2,"2,502.00","5,004.00",Alimentos
+28,5/20/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,27,Alfajor Simple,5,"2,502.00","12,510.00",Alimentos
+11,4/10/2024,20,tomas.acosta@mail.com,qr,Rio Cuarto,1/20/2023,28,Papas Fritas Clásicas 100g,1,936,936,Alimentos
+22,5/8/2024,64,julian.alvarez@mail.com,transferencia,Villa Maria,3/5/2023,28,Papas Fritas Clásicas 100g,3,936,"2,808.00",Alimentos
+29,2/20/2024,49,olivia.gomez@mail.com,qr,Rio Cuarto,2/18/2023,66,Cerveza Negra 1L,1,"1,533.00","1,533.00",Alimentos
+42,4/18/2024,12,gael.gomez@mail.com,tarjeta,Alta Gracia,1/12/2023,29,Papas Fritas Onduladas 100g,1,"1,868.00","1,868.00",Alimentos
+6,5/5/2024,91,uma.sanchez@mail.com,transferencia,Mendiolaza,4/1/2023,31,Mix de Frutos Secos 200g,3,"3,409.00","10,227.00",Alimentos
+20,1/13/2024,75,santiago.castro@mail.com,tarjeta,Rio Cuarto,3/16/2023,32,Chocolate Amargo 100g,3,"2,234.00","6,702.00",Alimentos
+18,6/11/2024,81,camila.ruiz@mail.com,qr,Carlos Paz,3/22/2023,33,Chocolate con Leche 100g,2,"1,255.00","2,510.00",Alimentos
+3,1/13/2024,20,tomas.acosta@mail.com,tarjeta,Rio Cuarto,1/20/2023,85,Jugo en Polvo Naranja,1,"1,856.00","1,856.00",Alimentos
+16,4/12/2024,2,nicolas.rojas@mail.com,efectivo,Carlos Paz,1/2/2023,35,Barrita de Cereal 30g,5,"4,430.00","22,150.00",Alimentos
+21,6/19/2024,10,karina.acosta@mail.com,transferencia,Cordoba,1/10/2023,35,Barrita de Cereal 30g,1,"4,430.00","4,430.00",Alimentos
+15,6/27/2024,56,bruno.diaz@mail.com,transferencia,Rio Cuarto,2/25/2023,37,Mermelada de Durazno 400g,3,"3,196.00","9,588.00",Alimentos
+10,5/28/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,37,Mermelada de Durazno 400g,3,"3,196.00","9,588.00",Alimentos
+12,6/28/2024,96,rocio.gonzalez@mail.com,efectivo,Cordoba,4/6/2023,38,Mermelada de Frutilla 400g,4,"1,584.00","6,336.00",Alimentos
+14,4/18/2024,67,ivana.romero@mail.com,qr,Alta Gracia,3/8/2023,38,Mermelada de Frutilla 400g,3,"1,584.00","4,752.00",Alimentos
+19,6/11/2024,80,gael.ruiz@mail.com,efectivo,Mendiolaza,3/21/2023,38,Mermelada de Frutilla 400g,2,"1,584.00","3,168.00",Alimentos
+11,4/10/2024,20,tomas.acosta@mail.com,qr,Rio Cuarto,1/20/2023,65,Cerveza Rubia 1L,2,"2,423.00","4,846.00",Alimentos
+38,5/29/2024,56,bruno.diaz@mail.com,tarjeta,Rio Cuarto,2/25/2023,65,Cerveza Rubia 1L,5,"2,423.00","12,115.00",Alimentos
+9,1/20/2024,86,diego.torres@mail.com,efectivo,Cordoba,3/27/2023,65,Cerveza Rubia 1L,4,"2,423.00","9,692.00",Alimentos
+39,3/5/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,44,Arroz Largo Fino 1kg,4,"2,979.00","11,916.00",Alimentos
+40,5/13/2024,15,tomas.ruiz@mail.com,efectivo,Cordoba,1/15/2023,44,Arroz Largo Fino 1kg,2,"2,979.00","5,958.00",Alimentos
+17,2/17/2024,88,felipe.castro@mail.com,efectivo,Villa Maria,3/29/2023,46,Lentejas Secas 500g,5,"3,036.00","15,180.00",Alimentos
+33,2/13/2024,6,uma.medina@mail.com,efectivo,Villa Maria,1/6/2023,47,Garbanzos 500g,2,"2,939.00","5,878.00",Alimentos
+42,4/18/2024,12,gael.gomez@mail.com,tarjeta,Alta Gracia,1/12/2023,47,Garbanzos 500g,3,"2,939.00","8,817.00",Alimentos
+36,6/25/2024,5,agustina.flores@mail.com,tarjeta,Cordoba,1/5/2023,48,Porotos Negros 500g,2,"4,462.00","8,924.00",Alimentos
+44,2/21/2024,21,elena.rodriguez@mail.com,efectivo,Alta Gracia,1/21/2023,48,Porotos Negros 500g,1,"4,462.00","4,462.00",Alimentos
+36,6/25/2024,5,agustina.flores@mail.com,tarjeta,Cordoba,1/5/2023,50,Azúcar 1kg,4,727,"2,908.00",Alimentos
+12,6/28/2024,96,rocio.gonzalez@mail.com,efectivo,Cordoba,4/6/2023,50,Azúcar 1kg,2,727,"1,454.00",Alimentos
+6,5/5/2024,91,uma.sanchez@mail.com,transferencia,Mendiolaza,4/1/2023,83,Queso Untable 190g,1,"1,830.00","1,830.00",Alimentos
+23,5/16/2024,78,emilia.alvarez@mail.com,transferencia,Villa Maria,3/19/2023,83,Queso Untable 190g,4,"1,830.00","7,320.00",Alimentos
+6,5/5/2024,91,uma.sanchez@mail.com,transferencia,Mendiolaza,4/1/2023,59,Chicle Menta,4,"3,612.00","14,448.00",Alimentos
+8,1/6/2024,66,tomas.herrera@mail.com,transferencia,Villa Maria,3/7/2023,53,Lavandina 1L,5,"1,664.00","8,320.00",Limpieza
+38,5/29/2024,56,bruno.diaz@mail.com,tarjeta,Rio Cuarto,2/25/2023,62,Stevia 100 sobres,5,"3,848.00","19,240.00",Alimentos
+10,5/28/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,62,Stevia 100 sobres,1,"3,848.00","3,848.00",Alimentos
+25,4/30/2024,13,ivana.sanchez@mail.com,transferencia,Carlos Paz,1/13/2023,55,Shampoo 400ml,1,"1,407.00","1,407.00",Limpieza
+12,6/28/2024,96,rocio.gonzalez@mail.com,efectivo,Cordoba,4/6/2023,56,Papel Higiénico x4,3,"2,532.00","7,596.00",Limpieza
+7,5/6/2024,92,mariana.rodriguez@mail.com,efectivo,Alta Gracia,4/2/2023,63,Granola 250g,3,"4,337.00","13,011.00",Alimentos
+19,6/11/2024,80,gael.ruiz@mail.com,efectivo,Mendiolaza,3/21/2023,63,Granola 250g,3,"4,337.00","13,011.00",Alimentos
+23,5/16/2024,78,emilia.alvarez@mail.com,transferencia,Villa Maria,3/19/2023,64,Avena Instantánea 250g,4,"3,953.00","15,812.00",Alimentos
+8,1/6/2024,66,tomas.herrera@mail.com,transferencia,Villa Maria,3/7/2023,68,Vino Blanco 750ml,5,"2,684.00","13,420.00",Alimentos
+39,3/5/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,81,Aceitunas Verdes 200g,4,"2,520.00","10,080.00",Alimentos
+13,1/24/2024,6,uma.medina@mail.com,tarjeta,Villa Maria,1/6/2023,81,Aceitunas Verdes 200g,3,"2,520.00","7,560.00",Alimentos
+17,2/17/2024,88,felipe.castro@mail.com,efectivo,Villa Maria,3/29/2023,81,Aceitunas Verdes 200g,5,"2,520.00","12,600.00",Alimentos
+12,6/28/2024,96,rocio.gonzalez@mail.com,efectivo,Cordoba,4/6/2023,72,Ron 700ml,2,"3,876.00","7,752.00",Alimentos
+28,5/20/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,72,Ron 700ml,1,"3,876.00","3,876.00",Alimentos
+14,4/18/2024,67,ivana.romero@mail.com,qr,Alta Gracia,3/8/2023,72,Ron 700ml,5,"3,876.00","19,380.00",Alimentos
+25,4/30/2024,13,ivana.sanchez@mail.com,transferencia,Carlos Paz,1/13/2023,72,Ron 700ml,1,"3,876.00","3,876.00",Alimentos
+42,4/18/2024,12,gael.gomez@mail.com,tarjeta,Alta Gracia,1/12/2023,73,Gin 700ml,3,"1,561.00","4,683.00",Alimentos
+28,5/20/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,74,Whisky 750ml,1,"2,953.00","2,953.00",Alimentos
+17,2/17/2024,88,felipe.castro@mail.com,efectivo,Villa Maria,3/29/2023,74,Whisky 750ml,3,"2,953.00","8,859.00",Alimentos
+10,5/28/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,100,Trapo de Piso,4,"4,854.00","19,416.00",Limpieza
+33,2/13/2024,6,uma.medina@mail.com,efectivo,Villa Maria,1/6/2023,100,Trapo de Piso,1,"4,854.00","4,854.00",Limpieza
+33,2/13/2024,6,uma.medina@mail.com,efectivo,Villa Maria,1/6/2023,76,Pizza Congelada Muzzarella,4,"4,286.00","17,144.00",Alimentos
+21,6/19/2024,10,karina.acosta@mail.com,transferencia,Cordoba,1/10/2023,76,Pizza Congelada Muzzarella,5,"4,286.00","21,430.00",Alimentos
+27,2/25/2024,9,yamila.molina@mail.com,transferencia,Carlos Paz,1/9/2023,78,Verduras Congeladas Mix,4,"4,289.00","17,156.00",Alimentos
+13,1/24/2024,6,uma.medina@mail.com,tarjeta,Villa Maria,1/6/2023,87,Sopa Instantánea Pollo,1,"1,679.00","1,679.00",Alimentos
+12,6/28/2024,96,rocio.gonzalez@mail.com,efectivo,Cordoba,4/6/2023,87,Sopa Instantánea Pollo,3,"1,679.00","5,037.00",Alimentos
+33,2/13/2024,6,uma.medina@mail.com,efectivo,Villa Maria,1/6/2023,91,Desodorante Aerosol,2,"4,690.00","9,380.00",Limpieza
+28,5/20/2024,52,diego.diaz@mail.com,qr,Rio Cuarto,2/21/2023,91,Desodorante Aerosol,2,"4,690.00","9,380.00",Limpieza
+31,5/22/2024,19,uma.silva@mail.com,tarjeta,Mendiolaza,1/19/2023,84,Queso Azul 150g,5,"1,645.00","8,225.00",Alimentos
+31,5/22/2024,19,uma.silva@mail.com,tarjeta,Mendiolaza,1/19/2023,92,Crema Dental 90g,4,"2,512.00","10,048.00",Limpieza
+25,4/30/2024,13,ivana.sanchez@mail.com,transferencia,Carlos Paz,1/13/2023,95,Mascarilla Capilar,5,"1,581.00","7,905.00",Limpieza
+14,4/18/2024,67,ivana.romero@mail.com,qr,Alta Gracia,3/8/2023,97,Limpiavidrios 500ml,1,872,872,Limpieza
+19,6/11/2024,80,gael.ruiz@mail.com,efectivo,Mendiolaza,3/21/2023,98,Desengrasante 500ml,3,"2,843.00","8,529.00",Limpieza
+43,2/18/2024,23,helena.fernandez@mail.com,efectivo,Rio Cuarto,1/23/2023,49,Harina de Trigo 1kg,2,"2,512.00","5,024.00",Alimentos
+43,2/18/2024,23,helena.fernandez@mail.com,efectivo,Rio Cuarto,1/23/2023,66,Cerveza Negra 1L,2,"1,533.00","3,066.00",Alimentos
+24,6/14/2024,55,olivia.ruiz@mail.com,tarjeta,Mendiolaza,2/24/2023,91,Desodorante Aerosol,2,"4,690.00","9,380.00",Limpieza
+24,6/14/2024,55,olivia.ruiz@mail.com,tarjeta,Mendiolaza,2/24/2023,40,Helado Chocolate 1L,5,"1,215.00","6,075.00",Alimentos
+41,3/8/2024,29,diego.fernandez@mail.com,tarjeta,Alta Gracia,1/29/2023,51,Sal Fina 500g,1,"1,745.00","1,745.00",Alimentos
+41,3/8/2024,29,diego.fernandez@mail.com,tarjeta,Alta Gracia,1/29/2023,15,Leche Descremada 1L,1,"2,538.00","2,538.00",Alimentos
+30,3/3/2024,93,gael.rojas@mail.com,efectivo,Alta Gracia,4/3/2023,49,Harina de Trigo 1kg,4,"2,512.00","10,048.00",Alimentos
+30,3/3/2024,93,gael.rojas@mail.com,efectivo,Alta Gracia,4/3/2023,78,Verduras Congeladas Mix,3,"4,289.00","12,867.00",Alimentos
+30,3/3/2024,93,gael.rojas@mail.com,efectivo,Alta Gracia,4/3/2023,82,Aceitunas Negras 200g,4,"2,394.00","9,576.00",Alimentos
+30,3/3/2024,93,gael.rojas@mail.com,efectivo,Alta Gracia,4/3/2023,7,Jugo de Manzana 1L,1,"3,269.00","3,269.00",Alimentos
+32,1/30/2024,31,felipe.ruiz@mail.com,efectivo,Villa Maria,1/31/2023,72,Ron 700ml,5,"3,876.00","19,380.00",Alimentos
+32,1/30/2024,31,felipe.ruiz@mail.com,efectivo,Villa Maria,1/31/2023,53,Lavandina 1L,4,"1,664.00","6,656.00",Limpieza
+32,1/30/2024,31,felipe.ruiz@mail.com,efectivo,Villa Maria,1/31/2023,17,Queso Cremoso 500g,3,"4,834.00","14,502.00",Alimentos
+32,1/30/2024,31,felipe.ruiz@mail.com,efectivo,Villa Maria,1/31/2023,35,Barrita de Cereal 30g,3,"4,430.00","13,290.00",Alimentos
+34,1/13/2024,58,karina.acosta2@mail.com,transferencia,Rio Cuarto,2/27/2023,10,Yerba Mate Intensa 1kg,1,"4,883.00","4,883.00",Alimentos
+34,1/13/2024,58,karina.acosta2@mail.com,transferencia,Rio Cuarto,2/27/2023,32,Chocolate Amargo 100g,5,"2,234.00","11,170.00",Alimentos
+35,5/30/2024,61,guadalupe.martinez@mail.com,efectivo,Rio Cuarto,3/2/2023,93,Cepillo de Dientes,3,"2,142.00","6,426.00",Limpieza
+35,5/30/2024,61,guadalupe.martinez@mail.com,efectivo,Rio Cuarto,3/2/2023,80,Helado de Frutilla 1L,2,"1,981.00","3,962.00",Alimentos
+35,5/30/2024,61,guadalupe.martinez@mail.com,efectivo,Rio Cuarto,3/2/2023,88,Caldo Concentrado Carne,5,"2,570.00","12,850.00",Alimentos
+37,5/17/2024,57,julian.acosta@mail.com,qr,Rio Cuarto,2/26/2023,18,Queso Rallado 150g,3,"3,444.00","10,332.00",Alimentos
+44,2/21/2024,21,elena.rodriguez@mail.com,efectivo,Alta Gracia,1/21/2023,47,Garbanzos 500g,2,"2,939.00","5,878.00",Alimentos
+44,2/21/2024,21,elena.rodriguez@mail.com,efectivo,Alta Gracia,1/21/2023,100,Trapo de Piso,2,"4,854.00","9,708.00",Limpieza
+45,1/19/2024,15,tomas.ruiz@mail.com,efectivo,Cordoba,1/15/2023,12,Té Negro 20 saquitos,2,570,"1,140.00",Alimentos
+45,1/19/2024,15,tomas.ruiz@mail.com,efectivo,Cordoba,1/15/2023,18,Queso Rallado 150g,2,"3,444.00","6,888.00",Alimentos
+45,1/19/2024,15,tomas.ruiz@mail.com,efectivo,Cordoba,1/15/2023,87,Sopa Instantánea Pollo,4,"1,679.00","6,716.00",Alimentos
+45,1/19/2024,15,tomas.ruiz@mail.com,efectivo,Cordoba,1/15/2023,98,Desengrasante 500ml,1,"2,843.00","2,843.00",Limpieza
+45,1/19/2024,15,tomas.ruiz@mail.com,efectivo,Cordoba,1/15/2023,52,Detergente Líquido 750ml,2,"2,582.00","5,164.00",Limpieza
+46,3/25/2024,46,agustina.martinez@mail.com,tarjeta,Alta Gracia,2/15/2023,21,Pan Lactal Integral,1,272,272,Alimentos
+47,5/4/2024,52,diego.diaz@mail.com,transferencia,Rio Cuarto,2/21/2023,43,Salsa de Tomate 500g,5,887,"4,435.00",Alimentos
+47,5/4/2024,52,diego.diaz@mail.com,transferencia,Rio Cuarto,2/21/2023,6,Jugo de Naranja 1L,3,"4,170.00","12,510.00",Alimentos
+48,1/26/2024,84,pablo.sanchez@mail.com,qr,Cordoba,3/25/2023,70,Fernet 750ml,1,"4,061.00","4,061.00",Alimentos
+48,1/26/2024,84,pablo.sanchez@mail.com,qr,Cordoba,3/25/2023,54,Jabón de Tocador,5,"1,592.00","7,960.00",Limpieza
+48,1/26/2024,84,pablo.sanchez@mail.com,qr,Cordoba,3/25/2023,57,Servilletas x100,4,"4,520.00","18,080.00",Limpieza
+49,6/2/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,59,Chicle Menta,2,"3,612.00","7,224.00",Alimentos
+49,6/2/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,21,Pan Lactal Integral,4,272,"1,088.00",Alimentos
+49,6/2/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,59,Chicle Menta,4,"3,612.00","14,448.00",Alimentos
+49,6/2/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,18,Queso Rallado 150g,3,"3,444.00","10,332.00",Alimentos
+49,6/2/2024,5,agustina.flores@mail.com,efectivo,Cordoba,1/5/2023,85,Jugo en Polvo Naranja,3,"1,856.00","5,568.00",Alimentos
+50,1/9/2024,8,bruno.castro@mail.com,transferencia,Carlos Paz,1/8/2023,10,Yerba Mate Intensa 1kg,2,"4,883.00","9,766.00",Alimentos
+50,1/9/2024,8,bruno.castro@mail.com,transferencia,Carlos Paz,1/8/2023,34,Turrón 50g,5,503,"2,515.00",Alimentos
+50,1/9/2024,8,bruno.castro@mail.com,transferencia,Carlos Paz,1/8/2023,58,Caramelos Masticables,5,"4,752.00","23,760.00",Alimentos
+50,1/9/2024,8,bruno.castro@mail.com,transferencia,Carlos Paz,1/8/2023,32,Chocolate Amargo 100g,3,"2,234.00","6,702.00",Alimentos
+50,1/9/2024,8,bruno.castro@mail.com,transferencia,Carlos Paz,1/8/2023,91,Desodorante Aerosol,4,"4,690.00","18,760.00",Limpieza
+51,2/18/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,31,Mix de Frutos Secos 200g,1,"3,409.00","3,409.00",Alimentos
+52,5/10/2024,5,agustina.flores@mail.com,tarjeta,Cordoba,1/5/2023,83,Queso Untable 190g,2,"1,830.00","3,660.00",Alimentos
+52,5/10/2024,5,agustina.flores@mail.com,tarjeta,Cordoba,1/5/2023,9,Yerba Mate Suave 1kg,4,"3,878.00","15,512.00",Alimentos
+52,5/10/2024,5,agustina.flores@mail.com,tarjeta,Cordoba,1/5/2023,81,Aceitunas Verdes 200g,5,"2,520.00","12,600.00",Alimentos
+52,5/10/2024,5,agustina.flores@mail.com,tarjeta,Cordoba,1/5/2023,38,Mermelada de Frutilla 400g,3,"1,584.00","4,752.00",Alimentos
+53,1/25/2024,56,bruno.diaz@mail.com,tarjeta,Rio Cuarto,2/25/2023,28,Papas Fritas Clásicas 100g,1,936,936,Alimentos
+54,3/26/2024,1,mariana.lopez@mail.com,tarjeta,Carlos Paz,1/1/2023,65,Cerveza Rubia 1L,1,"2,423.00","2,423.00",Alimentos
+54,3/26/2024,1,mariana.lopez@mail.com,tarjeta,Carlos Paz,1/1/2023,18,Queso Rallado 150g,2,"3,444.00","6,888.00",Alimentos
+54,3/26/2024,1,mariana.lopez@mail.com,tarjeta,Carlos Paz,1/1/2023,91,Desodorante Aerosol,3,"4,690.00","14,070.00",Limpieza
+54,3/26/2024,1,mariana.lopez@mail.com,tarjeta,Carlos Paz,1/1/2023,8,Energética Nitro 500ml,3,"4,218.00","12,654.00",Alimentos
+55,1/4/2024,100,agustina.lopez@mail.com,qr,Cordoba,4/10/2023,39,Helado Vainilla 1L,4,469,"1,876.00",Alimentos
+56,6/14/2024,15,tomas.ruiz@mail.com,qr,Cordoba,1/15/2023,18,Queso Rallado 150g,5,"3,444.00","17,220.00",Alimentos
+57,1/10/2024,34,bruno.castro2@mail.com,efectivo,Villa Maria,2/3/2023,31,Mix de Frutos Secos 200g,3,"3,409.00","10,227.00",Alimentos
+57,1/10/2024,34,bruno.castro2@mail.com,efectivo,Villa Maria,2/3/2023,41,Aceite de Girasol 1L,4,860,"3,440.00",Alimentos
+57,1/10/2024,34,bruno.castro2@mail.com,efectivo,Villa Maria,2/3/2023,9,Yerba Mate Suave 1kg,5,"3,878.00","19,390.00",Alimentos
+57,1/10/2024,34,bruno.castro2@mail.com,efectivo,Villa Maria,2/3/2023,76,Pizza Congelada Muzzarella,3,"4,286.00","12,858.00",Alimentos
+57,1/10/2024,34,bruno.castro2@mail.com,efectivo,Villa Maria,2/3/2023,98,Desengrasante 500ml,4,"2,843.00","11,372.00",Limpieza
+58,2/4/2024,48,rocio.alvarez@mail.com,transferencia,Cordoba,2/17/2023,43,Salsa de Tomate 500g,2,887,"1,774.00",Alimentos
+58,2/4/2024,48,rocio.alvarez@mail.com,transferencia,Cordoba,2/17/2023,11,Café Molido 250g,1,"2,053.00","2,053.00",Alimentos
+59,4/28/2024,62,guadalupe.romero@mail.com,tarjeta,Carlos Paz,3/3/2023,31,Mix de Frutos Secos 200g,1,"3,409.00","3,409.00",Alimentos
+59,4/28/2024,62,guadalupe.romero@mail.com,tarjeta,Carlos Paz,3/3/2023,8,Energética Nitro 500ml,2,"4,218.00","8,436.00",Alimentos
+59,4/28/2024,62,guadalupe.romero@mail.com,tarjeta,Carlos Paz,3/3/2023,97,Limpiavidrios 500ml,5,872,"4,360.00",Limpieza
+60,4/4/2024,81,camila.ruiz@mail.com,transferencia,Carlos Paz,3/22/2023,43,Salsa de Tomate 500g,1,887,887,Alimentos
+60,4/4/2024,81,camila.ruiz@mail.com,transferencia,Carlos Paz,3/22/2023,98,Desengrasante 500ml,3,"2,843.00","8,529.00",Limpieza
+60,4/4/2024,81,camila.ruiz@mail.com,transferencia,Carlos Paz,3/22/2023,15,Leche Descremada 1L,1,"2,538.00","2,538.00",Alimentos
+60,4/4/2024,81,camila.ruiz@mail.com,transferencia,Carlos Paz,3/22/2023,21,Pan Lactal Integral,2,272,544,Alimentos
+60,4/4/2024,81,camila.ruiz@mail.com,transferencia,Carlos Paz,3/22/2023,91,Desodorante Aerosol,4,"4,690.00","18,760.00",Limpieza
+61,6/1/2024,27,tomas.castro@mail.com,efectivo,Rio Cuarto,1/27/2023,9,Yerba Mate Suave 1kg,3,"3,878.00","11,634.00",Alimentos
+61,6/1/2024,27,tomas.castro@mail.com,efectivo,Rio Cuarto,1/27/2023,19,Manteca 200g,3,"3,251.00","9,753.00",Alimentos
+62,5/1/2024,100,agustina.lopez@mail.com,transferencia,Cordoba,4/10/2023,47,Garbanzos 500g,4,"2,939.00","11,756.00",Alimentos
+62,5/1/2024,100,agustina.lopez@mail.com,transferencia,Cordoba,4/10/2023,95,Mascarilla Capilar,3,"1,581.00","4,743.00",Limpieza
+63,6/19/2024,25,karina.castro@mail.com,tarjeta,Rio Cuarto,1/25/2023,8,Energética Nitro 500ml,5,"4,218.00","21,090.00",Alimentos
+63,6/19/2024,25,karina.castro@mail.com,tarjeta,Rio Cuarto,1/25/2023,2,Pepsi 1.5L,2,"4,973.00","9,946.00",Alimentos
+63,6/19/2024,25,karina.castro@mail.com,tarjeta,Rio Cuarto,1/25/2023,70,Fernet 750ml,3,"4,061.00","12,183.00",Alimentos
+63,6/19/2024,25,karina.castro@mail.com,tarjeta,Rio Cuarto,1/25/2023,45,Fideos Spaghetti 500g,4,745,"2,980.00",Alimentos
+64,3/7/2024,58,karina.acosta2@mail.com,qr,Rio Cuarto,2/27/2023,4,Fanta Naranja 1.5L,2,"2,033.00","4,066.00",Alimentos
+64,3/7/2024,58,karina.acosta2@mail.com,qr,Rio Cuarto,2/27/2023,41,Aceite de Girasol 1L,2,860,"1,720.00",Alimentos
+65,4/30/2024,30,ivana.medina@mail.com,qr,Alta Gracia,1/30/2023,77,Empanadas Congeladas,4,"4,778.00","19,112.00",Alimentos
+65,4/30/2024,30,ivana.medina@mail.com,qr,Alta Gracia,1/30/2023,22,Medialunas de Manteca,3,"2,069.00","6,207.00",Alimentos
+65,4/30/2024,30,ivana.medina@mail.com,qr,Alta Gracia,1/30/2023,38,Mermelada de Frutilla 400g,5,"1,584.00","7,920.00",Alimentos
+65,4/30/2024,30,ivana.medina@mail.com,qr,Alta Gracia,1/30/2023,36,Dulce de Leche 400g,4,"2,559.00","10,236.00",Alimentos
+66,3/14/2024,69,felipe.flores@mail.com,qr,Rio Cuarto,3/10/2023,16,Yogur Natural 200g,3,"4,613.00","13,839.00",Alimentos
+67,3/21/2024,66,tomas.herrera@mail.com,efectivo,Villa Maria,3/7/2023,53,Lavandina 1L,1,"1,664.00","1,664.00",Limpieza
+67,3/21/2024,66,tomas.herrera@mail.com,efectivo,Villa Maria,3/7/2023,8,Energética Nitro 500ml,2,"4,218.00","8,436.00",Alimentos
+68,6/28/2024,27,tomas.castro@mail.com,qr,Rio Cuarto,1/27/2023,94,Hilo Dental,4,"1,418.00","5,672.00",Limpieza
+69,1/6/2024,42,tomas.flores@mail.com,qr,Alta Gracia,2/11/2023,76,Pizza Congelada Muzzarella,4,"4,286.00","17,144.00",Alimentos
+69,1/6/2024,42,tomas.flores@mail.com,qr,Alta Gracia,2/11/2023,74,Whisky 750ml,3,"2,953.00","8,859.00",Alimentos
+70,2/2/2024,41,elena.rodriguez2@mail.com,transferencia,Alta Gracia,2/10/2023,66,Cerveza Negra 1L,3,"1,533.00","4,599.00",Alimentos
+70,2/2/2024,41,elena.rodriguez2@mail.com,transferencia,Alta Gracia,2/10/2023,89,Caldo Concentrado Verdura,4,"1,003.00","4,012.00",Alimentos
+70,2/2/2024,41,elena.rodriguez2@mail.com,transferencia,Alta Gracia,2/10/2023,38,Mermelada de Frutilla 400g,3,"1,584.00","4,752.00",Alimentos
+71,6/2/2024,40,felipe.diaz@mail.com,qr,Rio Cuarto,2/9/2023,11,Café Molido 250g,3,"2,053.00","6,159.00",Alimentos
+71,6/2/2024,40,felipe.diaz@mail.com,qr,Rio Cuarto,2/9/2023,79,Hamburguesas Congeladas x4,4,"2,420.00","9,680.00",Alimentos
+71,6/2/2024,40,felipe.diaz@mail.com,qr,Rio Cuarto,2/9/2023,100,Trapo de Piso,4,"4,854.00","19,416.00",Limpieza
+71,6/2/2024,40,felipe.diaz@mail.com,qr,Rio Cuarto,2/9/2023,92,Crema Dental 90g,1,"2,512.00","2,512.00",Limpieza
+72,2/17/2024,26,camila.sanchez@mail.com,qr,Alta Gracia,1/26/2023,94,Hilo Dental,3,"1,418.00","4,254.00",Limpieza
+72,2/17/2024,26,camila.sanchez@mail.com,qr,Alta Gracia,1/26/2023,41,Aceite de Girasol 1L,4,860,"3,440.00",Alimentos
+72,2/17/2024,26,camila.sanchez@mail.com,qr,Alta Gracia,1/26/2023,51,Sal Fina 500g,2,"1,745.00","3,490.00",Alimentos
+73,5/16/2024,42,tomas.flores@mail.com,transferencia,Alta Gracia,2/11/2023,28,Papas Fritas Clásicas 100g,1,936,936,Alimentos
+73,5/16/2024,42,tomas.flores@mail.com,transferencia,Alta Gracia,2/11/2023,24,Galletitas Chocolate,3,"1,305.00","3,915.00",Alimentos
+73,5/16/2024,42,tomas.flores@mail.com,transferencia,Alta Gracia,2/11/2023,19,Manteca 200g,1,"3,251.00","3,251.00",Alimentos
+74,4/26/2024,56,bruno.diaz@mail.com,efectivo,Rio Cuarto,2/25/2023,32,Chocolate Amargo 100g,3,"2,234.00","6,702.00",Alimentos
+74,4/26/2024,56,bruno.diaz@mail.com,efectivo,Rio Cuarto,2/25/2023,14,Leche Entera 1L,2,"1,723.00","3,446.00",Alimentos
+74,4/26/2024,56,bruno.diaz@mail.com,efectivo,Rio Cuarto,2/25/2023,55,Shampoo 400ml,2,"1,407.00","2,814.00",Limpieza
+75,5/23/2024,61,guadalupe.martinez@mail.com,qr,Rio Cuarto,3/2/2023,3,Sprite 1.5L,4,"4,964.00","19,856.00",Alimentos
+75,5/23/2024,61,guadalupe.martinez@mail.com,qr,Rio Cuarto,3/2/2023,2,Pepsi 1.5L,5,"4,973.00","24,865.00",Alimentos
+76,5/15/2024,75,santiago.castro@mail.com,tarjeta,Rio Cuarto,3/16/2023,22,Medialunas de Manteca,4,"2,069.00","8,276.00",Alimentos
+76,5/15/2024,75,santiago.castro@mail.com,tarjeta,Rio Cuarto,3/16/2023,23,Bizcochos Salados,4,"2,380.00","9,520.00",Alimentos
+76,5/15/2024,75,santiago.castro@mail.com,tarjeta,Rio Cuarto,3/16/2023,24,Galletitas Chocolate,1,"1,305.00","1,305.00",Alimentos
+76,5/15/2024,75,santiago.castro@mail.com,tarjeta,Rio Cuarto,3/16/2023,11,Café Molido 250g,2,"2,053.00","4,106.00",Alimentos
+77,5/26/2024,55,olivia.ruiz@mail.com,tarjeta,Mendiolaza,2/24/2023,53,Lavandina 1L,2,"1,664.00","3,328.00",Limpieza
+77,5/26/2024,55,olivia.ruiz@mail.com,tarjeta,Mendiolaza,2/24/2023,41,Aceite de Girasol 1L,1,860,860,Alimentos
+77,5/26/2024,55,olivia.ruiz@mail.com,tarjeta,Mendiolaza,2/24/2023,34,Turrón 50g,5,503,"2,515.00",Alimentos
+77,5/26/2024,55,olivia.ruiz@mail.com,tarjeta,Mendiolaza,2/24/2023,98,Desengrasante 500ml,2,"2,843.00","5,686.00",Limpieza
+77,5/26/2024,55,olivia.ruiz@mail.com,tarjeta,Mendiolaza,2/24/2023,39,Helado Vainilla 1L,2,469,938,Alimentos
+78,4/29/2024,12,gael.gomez@mail.com,qr,Alta Gracia,1/12/2023,37,Mermelada de Durazno 400g,3,"3,196.00","9,588.00",Alimentos
+78,4/29/2024,12,gael.gomez@mail.com,qr,Alta Gracia,1/12/2023,79,Hamburguesas Congeladas x4,5,"2,420.00","12,100.00",Alimentos
+78,4/29/2024,12,gael.gomez@mail.com,qr,Alta Gracia,1/12/2023,17,Queso Cremoso 500g,2,"4,834.00","9,668.00",Alimentos
+78,4/29/2024,12,gael.gomez@mail.com,qr,Alta Gracia,1/12/2023,85,Jugo en Polvo Naranja,1,"1,856.00","1,856.00",Alimentos
+78,4/29/2024,12,gael.gomez@mail.com,qr,Alta Gracia,1/12/2023,39,Helado Vainilla 1L,2,469,938,Alimentos
+79,6/6/2024,57,julian.acosta@mail.com,qr,Rio Cuarto,2/26/2023,81,Aceitunas Verdes 200g,2,"2,520.00","5,040.00",Alimentos
+79,6/6/2024,57,julian.acosta@mail.com,qr,Rio Cuarto,2/26/2023,56,Papel Higiénico x4,2,"2,532.00","5,064.00",Limpieza
+80,3/25/2024,54,uma.herrera@mail.com,efectivo,Alta Gracia,2/23/2023,39,Helado Vainilla 1L,5,469,"2,345.00",Alimentos
+80,3/25/2024,54,uma.herrera@mail.com,efectivo,Alta Gracia,2/23/2023,30,Maní Salado 200g,3,"4,875.00","14,625.00",Alimentos
+80,3/25/2024,54,uma.herrera@mail.com,efectivo,Alta Gracia,2/23/2023,41,Aceite de Girasol 1L,5,860,"4,300.00",Alimentos
+81,3/9/2024,49,olivia.gomez@mail.com,transferencia,Rio Cuarto,2/18/2023,10,Yerba Mate Intensa 1kg,2,"4,883.00","9,766.00",Alimentos
+82,1/25/2024,19,uma.silva@mail.com,tarjeta,Mendiolaza,1/19/2023,38,Mermelada de Frutilla 400g,1,"1,584.00","1,584.00",Alimentos
+82,1/25/2024,19,uma.silva@mail.com,tarjeta,Mendiolaza,1/19/2023,28,Papas Fritas Clásicas 100g,2,936,"1,872.00",Alimentos
+82,1/25/2024,19,uma.silva@mail.com,tarjeta,Mendiolaza,1/19/2023,29,Papas Fritas Onduladas 100g,5,"1,868.00","9,340.00",Alimentos
+82,1/25/2024,19,uma.silva@mail.com,tarjeta,Mendiolaza,1/19/2023,82,Aceitunas Negras 200g,2,"2,394.00","4,788.00",Alimentos
+83,5/28/2024,91,uma.sanchez@mail.com,efectivo,Mendiolaza,4/1/2023,5,Agua Mineral 500ml,2,"4,777.00","9,554.00",Alimentos
+83,5/28/2024,91,uma.sanchez@mail.com,efectivo,Mendiolaza,4/1/2023,26,Alfajor Triple,2,"1,001.00","2,002.00",Alimentos
+83,5/28/2024,91,uma.sanchez@mail.com,efectivo,Mendiolaza,4/1/2023,73,Gin 700ml,5,"1,561.00","7,805.00",Alimentos
+83,5/28/2024,91,uma.sanchez@mail.com,efectivo,Mendiolaza,4/1/2023,51,Sal Fina 500g,2,"1,745.00","3,490.00",Alimentos
+84,1/2/2024,72,camila.rodriguez@mail.com,efectivo,Cordoba,3/13/2023,83,Queso Untable 190g,5,"1,830.00","9,150.00",Alimentos
+84,1/2/2024,72,camila.rodriguez@mail.com,efectivo,Cordoba,3/13/2023,76,Pizza Congelada Muzzarella,4,"4,286.00","17,144.00",Alimentos
+85,1/23/2024,42,tomas.flores@mail.com,transferencia,Alta Gracia,2/11/2023,32,Chocolate Amargo 100g,4,"2,234.00","8,936.00",Alimentos
+85,1/23/2024,42,tomas.flores@mail.com,transferencia,Alta Gracia,2/11/2023,80,Helado de Frutilla 1L,2,"1,981.00","3,962.00",Alimentos
+86,1/10/2024,40,felipe.diaz@mail.com,efectivo,Rio Cuarto,2/9/2023,66,Cerveza Negra 1L,2,"1,533.00","3,066.00",Alimentos
+86,1/10/2024,40,felipe.diaz@mail.com,efectivo,Rio Cuarto,2/9/2023,1,Coca Cola 1.5L,4,"2,347.00","9,388.00",Alimentos
+86,1/10/2024,40,felipe.diaz@mail.com,efectivo,Rio Cuarto,2/9/2023,13,Té Verde 20 saquitos,5,"2,383.00","11,915.00",Alimentos
+86,1/10/2024,40,felipe.diaz@mail.com,efectivo,Rio Cuarto,2/9/2023,41,Aceite de Girasol 1L,3,860,"2,580.00",Alimentos
+87,4/20/2024,100,agustina.lopez@mail.com,qr,Cordoba,4/10/2023,53,Lavandina 1L,2,"1,664.00","3,328.00",Limpieza
+87,4/20/2024,100,agustina.lopez@mail.com,qr,Cordoba,4/10/2023,86,Jugo en Polvo Limón,2,"4,090.00","8,180.00",Alimentos
+88,6/21/2024,37,martina.perez@mail.com,efectivo,Mendiolaza,2/6/2023,7,Jugo de Manzana 1L,5,"3,269.00","16,345.00",Alimentos
+88,6/21/2024,37,martina.perez@mail.com,efectivo,Mendiolaza,2/6/2023,53,Lavandina 1L,5,"1,664.00","8,320.00",Limpieza
+88,6/21/2024,37,martina.perez@mail.com,efectivo,Mendiolaza,2/6/2023,8,Energética Nitro 500ml,4,"4,218.00","16,872.00",Alimentos
+89,1/18/2024,17,pablo.gomez@mail.com,tarjeta,Villa Maria,1/17/2023,72,Ron 700ml,2,"3,876.00","7,752.00",Alimentos
+90,1/8/2024,46,agustina.martinez@mail.com,qr,Alta Gracia,2/15/2023,79,Hamburguesas Congeladas x4,4,"2,420.00","9,680.00",Alimentos
+90,1/8/2024,46,agustina.martinez@mail.com,qr,Alta Gracia,2/15/2023,6,Jugo de Naranja 1L,2,"4,170.00","8,340.00",Alimentos
+91,2/19/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,57,Servilletas x100,3,"4,520.00","13,560.00",Limpieza
+92,2/9/2024,42,tomas.flores@mail.com,transferencia,Alta Gracia,2/11/2023,10,Yerba Mate Intensa 1kg,2,"4,883.00","9,766.00",Alimentos
+92,2/9/2024,42,tomas.flores@mail.com,transferencia,Alta Gracia,2/11/2023,43,Salsa de Tomate 500g,4,887,"3,548.00",Alimentos
+93,1/29/2024,90,guadalupe.ruiz@mail.com,efectivo,Rio Cuarto,3/31/2023,80,Helado de Frutilla 1L,4,"1,981.00","7,924.00",Alimentos
+93,1/29/2024,90,guadalupe.ruiz@mail.com,efectivo,Rio Cuarto,3/31/2023,66,Cerveza Negra 1L,3,"1,533.00","4,599.00",Alimentos
+93,1/29/2024,90,guadalupe.ruiz@mail.com,efectivo,Rio Cuarto,3/31/2023,91,Desodorante Aerosol,3,"4,690.00","14,070.00",Limpieza
+94,3/6/2024,41,elena.rodriguez2@mail.com,qr,Alta Gracia,2/10/2023,24,Galletitas Chocolate,1,"1,305.00","1,305.00",Alimentos
+94,3/6/2024,41,elena.rodriguez2@mail.com,qr,Alta Gracia,2/10/2023,86,Jugo en Polvo Limón,5,"4,090.00","20,450.00",Alimentos
+94,3/6/2024,41,elena.rodriguez2@mail.com,qr,Alta Gracia,2/10/2023,98,Desengrasante 500ml,2,"2,843.00","5,686.00",Limpieza
+95,2/25/2024,26,camila.sanchez@mail.com,qr,Alta Gracia,1/26/2023,72,Ron 700ml,5,"3,876.00","19,380.00",Alimentos
+95,2/25/2024,26,camila.sanchez@mail.com,qr,Alta Gracia,1/26/2023,12,Té Negro 20 saquitos,1,570,570,Alimentos
+96,2/23/2024,83,franco.gomez@mail.com,tarjeta,Rio Cuarto,3/24/2023,81,Aceitunas Verdes 200g,3,"2,520.00","7,560.00",Alimentos
+96,2/23/2024,83,franco.gomez@mail.com,tarjeta,Rio Cuarto,3/24/2023,68,Vino Blanco 750ml,1,"2,684.00","2,684.00",Alimentos
+96,2/23/2024,83,franco.gomez@mail.com,tarjeta,Rio Cuarto,3/24/2023,11,Café Molido 250g,2,"2,053.00","4,106.00",Alimentos
+96,2/23/2024,83,franco.gomez@mail.com,tarjeta,Rio Cuarto,3/24/2023,50,Azúcar 1kg,3,727,"2,181.00",Alimentos
+97,6/16/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,59,Chicle Menta,5,"3,612.00","18,060.00",Alimentos
+97,6/16/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,36,Dulce de Leche 400g,1,"2,559.00","2,559.00",Alimentos
+97,6/16/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,4,Fanta Naranja 1.5L,3,"2,033.00","6,099.00",Alimentos
+98,1/12/2024,43,lucas.perez@mail.com,transferencia,Mendiolaza,2/12/2023,28,Papas Fritas Clásicas 100g,4,936,"3,744.00",Alimentos
+98,1/12/2024,43,lucas.perez@mail.com,transferencia,Mendiolaza,2/12/2023,61,Miel Pura 250g,1,"4,982.00","4,982.00",Alimentos
+98,1/12/2024,43,lucas.perez@mail.com,transferencia,Mendiolaza,2/12/2023,29,Papas Fritas Onduladas 100g,1,"1,868.00","1,868.00",Alimentos
+98,1/12/2024,43,lucas.perez@mail.com,transferencia,Mendiolaza,2/12/2023,83,Queso Untable 190g,3,"1,830.00","5,490.00",Alimentos
+99,3/13/2024,51,agustina.gomez@mail.com,transferencia,Rio Cuarto,2/20/2023,40,Helado Chocolate 1L,5,"1,215.00","6,075.00",Alimentos
+100,6/8/2024,69,felipe.flores@mail.com,qr,Rio Cuarto,3/10/2023,13,Té Verde 20 saquitos,3,"2,383.00","7,149.00",Alimentos
+100,6/8/2024,69,felipe.flores@mail.com,qr,Rio Cuarto,3/10/2023,18,Queso Rallado 150g,4,"3,444.00","13,776.00",Alimentos
+100,6/8/2024,69,felipe.flores@mail.com,qr,Rio Cuarto,3/10/2023,58,Caramelos Masticables,2,"4,752.00","9,504.00",Alimentos
+100,6/8/2024,69,felipe.flores@mail.com,qr,Rio Cuarto,3/10/2023,57,Servilletas x100,1,"4,520.00","4,520.00",Limpieza
+100,6/8/2024,69,felipe.flores@mail.com,qr,Rio Cuarto,3/10/2023,9,Yerba Mate Suave 1kg,4,"3,878.00","15,512.00",Alimentos
+101,3/28/2024,72,camila.rodriguez@mail.com,efectivo,Cordoba,3/13/2023,34,Turrón 50g,4,503,"2,012.00",Alimentos
+102,3/29/2024,18,ivana.torres@mail.com,efectivo,Carlos Paz,1/18/2023,78,Verduras Congeladas Mix,3,"4,289.00","12,867.00",Alimentos
+102,3/29/2024,18,ivana.torres@mail.com,efectivo,Carlos Paz,1/18/2023,36,Dulce de Leche 400g,3,"2,559.00","7,677.00",Alimentos
+103,3/11/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,79,Hamburguesas Congeladas x4,5,"2,420.00","12,100.00",Alimentos
+103,3/11/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,43,Salsa de Tomate 500g,5,887,"4,435.00",Alimentos
+103,3/11/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,34,Turrón 50g,1,503,503,Alimentos
+103,3/11/2024,39,santiago.diaz@mail.com,efectivo,Alta Gracia,2/8/2023,70,Fernet 750ml,1,"4,061.00","4,061.00",Alimentos
+104,6/17/2024,86,diego.torres@mail.com,qr,Cordoba,3/27/2023,95,Mascarilla Capilar,2,"1,581.00","3,162.00",Limpieza
+104,6/17/2024,86,diego.torres@mail.com,qr,Cordoba,3/27/2023,68,Vino Blanco 750ml,3,"2,684.00","8,052.00",Alimentos
+104,6/17/2024,86,diego.torres@mail.com,qr,Cordoba,3/27/2023,68,Vino Blanco 750ml,5,"2,684.00","13,420.00",Alimentos
+105,2/6/2024,1,mariana.lopez@mail.com,transferencia,Carlos Paz,1/1/2023,13,Té Verde 20 saquitos,2,"2,383.00","4,766.00",Alimentos
+105,2/6/2024,1,mariana.lopez@mail.com,transferencia,Carlos Paz,1/1/2023,4,Fanta Naranja 1.5L,4,"2,033.00","8,132.00",Alimentos
+105,2/6/2024,1,mariana.lopez@mail.com,transferencia,Carlos Paz,1/1/2023,58,Caramelos Masticables,2,"4,752.00","9,504.00",Alimentos
+105,2/6/2024,1,mariana.lopez@mail.com,transferencia,Carlos Paz,1/1/2023,82,Aceitunas Negras 200g,4,"2,394.00","9,576.00",Alimentos
+105,2/6/2024,1,mariana.lopez@mail.com,transferencia,Carlos Paz,1/1/2023,43,Salsa de Tomate 500g,5,887,"4,435.00",Alimentos
+106,3/24/2024,82,lucas.lopez@mail.com,transferencia,Alta Gracia,3/23/2023,88,Caldo Concentrado Carne,3,"2,570.00","7,710.00",Alimentos
+107,5/21/2024,14,gael.martinez@mail.com,efectivo,Carlos Paz,1/14/2023,7,Jugo de Manzana 1L,4,"3,269.00","13,076.00",Alimentos
+107,5/21/2024,14,gael.martinez@mail.com,efectivo,Carlos Paz,1/14/2023,11,Café Molido 250g,2,"2,053.00","4,106.00",Alimentos
+107,5/21/2024,14,gael.martinez@mail.com,efectivo,Carlos Paz,1/14/2023,12,Té Negro 20 saquitos,4,570,"2,280.00",Alimentos
+107,5/21/2024,14,gael.martinez@mail.com,efectivo,Carlos Paz,1/14/2023,5,Agua Mineral 500ml,4,"4,777.00","19,108.00",Alimentos
+108,3/25/2024,9,yamila.molina@mail.com,tarjeta,Carlos Paz,1/9/2023,90,Toallas Húmedas x50,4,"2,902.00","11,608.00",Limpieza
+109,6/4/2024,64,julian.alvarez@mail.com,transferencia,Villa Maria,3/5/2023,18,Queso Rallado 150g,1,"3,444.00","3,444.00",Alimentos
+109,6/4/2024,64,julian.alvarez@mail.com,transferencia,Villa Maria,3/5/2023,74,Whisky 750ml,1,"2,953.00","2,953.00",Alimentos
+109,6/4/2024,64,julian.alvarez@mail.com,transferencia,Villa Maria,3/5/2023,20,Pan Lactal Blanco,2,"1,571.00","3,142.00",Alimentos
+109,6/4/2024,64,julian.alvarez@mail.com,transferencia,Villa Maria,3/5/2023,44,Arroz Largo Fino 1kg,5,"2,979.00","14,895.00",Alimentos
+110,5/19/2024,92,mariana.rodriguez@mail.com,efectivo,Alta Gracia,4/2/2023,6,Jugo de Naranja 1L,1,"4,170.00","4,170.00",Alimentos
+110,5/19/2024,92,mariana.rodriguez@mail.com,efectivo,Alta Gracia,4/2/2023,59,Chicle Menta,3,"3,612.00","10,836.00",Alimentos
+110,5/19/2024,92,mariana.rodriguez@mail.com,efectivo,Alta Gracia,4/2/2023,6,Jugo de Naranja 1L,5,"4,170.00","20,850.00",Alimentos
+111,2/12/2024,48,rocio.alvarez@mail.com,efectivo,Cordoba,2/17/2023,97,Limpiavidrios 500ml,4,872,"3,488.00",Limpieza
+111,2/12/2024,48,rocio.alvarez@mail.com,efectivo,Cordoba,2/17/2023,93,Cepillo de Dientes,3,"2,142.00","6,426.00",Limpieza
+111,2/12/2024,48,rocio.alvarez@mail.com,efectivo,Cordoba,2/17/2023,20,Pan Lactal Blanco,2,"1,571.00","3,142.00",Alimentos
+111,2/12/2024,48,rocio.alvarez@mail.com,efectivo,Cordoba,2/17/2023,23,Bizcochos Salados,4,"2,380.00","9,520.00",Alimentos
+112,1/19/2024,28,rocio.silva@mail.com,tarjeta,Cordoba,1/28/2023,55,Shampoo 400ml,1,"1,407.00","1,407.00",Limpieza
+112,1/19/2024,28,rocio.silva@mail.com,tarjeta,Cordoba,1/28/2023,21,Pan Lactal Integral,4,272,"1,088.00",Alimentos
+112,1/19/2024,28,rocio.silva@mail.com,tarjeta,Cordoba,1/28/2023,43,Salsa de Tomate 500g,5,887,"4,435.00",Alimentos
+112,1/19/2024,28,rocio.silva@mail.com,tarjeta,Cordoba,1/28/2023,13,Té Verde 20 saquitos,2,"2,383.00","4,766.00",Alimentos
+112,1/19/2024,28,rocio.silva@mail.com,tarjeta,Cordoba,1/28/2023,59,Chicle Menta,1,"3,612.00","3,612.00",Alimentos
+113,3/8/2024,98,camila.castro@mail.com,transferencia,Cordoba,4/8/2023,53,Lavandina 1L,2,"1,664.00","3,328.00",Limpieza
+113,3/8/2024,98,camila.castro@mail.com,transferencia,Cordoba,4/8/2023,92,Crema Dental 90g,3,"2,512.00","7,536.00",Limpieza
+114,5/5/2024,16,felipe.alvarez@mail.com,qr,Rio Cuarto,1/16/2023,8,Energética Nitro 500ml,1,"4,218.00","4,218.00",Alimentos
+114,5/5/2024,16,felipe.alvarez@mail.com,qr,Rio Cuarto,1/16/2023,84,Queso Azul 150g,1,"1,645.00","1,645.00",Alimentos
+114,5/5/2024,16,felipe.alvarez@mail.com,qr,Rio Cuarto,1/16/2023,10,Yerba Mate Intensa 1kg,1,"4,883.00","4,883.00",Alimentos
+114,5/5/2024,16,felipe.alvarez@mail.com,qr,Rio Cuarto,1/16/2023,55,Shampoo 400ml,5,"1,407.00","7,035.00",Limpieza
+114,5/5/2024,16,felipe.alvarez@mail.com,qr,Rio Cuarto,1/16/2023,92,Crema Dental 90g,4,"2,512.00","10,048.00",Limpieza
+115,2/16/2024,3,hernan.martinez@mail.com,transferencia,Rio Cuarto,1/3/2023,17,Queso Cremoso 500g,4,"4,834.00","19,336.00",Alimentos
+115,2/16/2024,3,hernan.martinez@mail.com,transferencia,Rio Cuarto,1/3/2023,97,Limpiavidrios 500ml,5,872,"4,360.00",Limpieza
+115,2/16/2024,3,hernan.martinez@mail.com,transferencia,Rio Cuarto,1/3/2023,95,Mascarilla Capilar,4,"1,581.00","6,324.00",Limpieza
+115,2/16/2024,3,hernan.martinez@mail.com,transferencia,Rio Cuarto,1/3/2023,84,Queso Azul 150g,2,"1,645.00","3,290.00",Alimentos
+116,3/18/2024,25,karina.castro@mail.com,qr,Rio Cuarto,1/25/2023,65,Cerveza Rubia 1L,1,"2,423.00","2,423.00",Alimentos
+116,3/18/2024,25,karina.castro@mail.com,qr,Rio Cuarto,1/25/2023,35,Barrita de Cereal 30g,2,"4,430.00","8,860.00",Alimentos
+116,3/18/2024,25,karina.castro@mail.com,qr,Rio Cuarto,1/25/2023,42,Vinagre de Alcohol 500ml,4,"1,195.00","4,780.00",Alimentos
+116,3/18/2024,25,karina.castro@mail.com,qr,Rio Cuarto,1/25/2023,54,Jabón de Tocador,5,"1,592.00","7,960.00",Limpieza
+116,3/18/2024,25,karina.castro@mail.com,qr,Rio Cuarto,1/25/2023,90,Toallas Húmedas x50,4,"2,902.00","11,608.00",Limpieza
+117,3/14/2024,72,camila.rodriguez@mail.com,tarjeta,Cordoba,3/13/2023,67,Vino Tinto Malbec 750ml,4,"4,719.00","18,876.00",Alimentos
+117,3/14/2024,72,camila.rodriguez@mail.com,tarjeta,Cordoba,3/13/2023,61,Miel Pura 250g,2,"4,982.00","9,964.00",Alimentos
+118,2/9/2024,84,pablo.sanchez@mail.com,efectivo,Cordoba,3/25/2023,68,Vino Blanco 750ml,5,"2,684.00","13,420.00",Alimentos
+118,2/9/2024,84,pablo.sanchez@mail.com,efectivo,Cordoba,3/25/2023,68,Vino Blanco 750ml,3,"2,684.00","8,052.00",Alimentos
+118,2/9/2024,84,pablo.sanchez@mail.com,efectivo,Cordoba,3/25/2023,70,Fernet 750ml,2,"4,061.00","8,122.00",Alimentos
+118,2/9/2024,84,pablo.sanchez@mail.com,efectivo,Cordoba,3/25/2023,93,Cepillo de Dientes,3,"2,142.00","6,426.00",Limpieza
+118,2/9/2024,84,pablo.sanchez@mail.com,efectivo,Cordoba,3/25/2023,50,Azúcar 1kg,2,727,"1,454.00",Alimentos
+119,2/7/2024,51,agustina.gomez@mail.com,qr,Rio Cuarto,2/20/2023,45,Fideos Spaghetti 500g,5,745,"3,725.00",Alimentos
+120,4/21/2024,72,camila.rodriguez@mail.com,tarjeta,Cordoba,3/13/2023,20,Pan Lactal Blanco,5,"1,571.00","7,855.00",Alimentos
